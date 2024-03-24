@@ -1,0 +1,1175 @@
+10:22:41.425 [main] INFO  cs486.App - Starting application
+10:22:41.427 [main] INFO  cs486.App - Application finished
+11:08:31.011 [main] INFO  cs486.App - Starting application
+11:08:31.013 [main] INFO  cs486.App - Application finished
+08:23:02.267 [main] INFO  cs486.App - Starting application
+08:23:02.269 [main] INFO  cs486.App - Application finished
+08:23:32.966 [main] INFO  cs486.App - Starting application
+08:27:05.734 [main] INFO  cs486.App - Starting application
+08:30:17.156 [main] INFO  cs486.App - Starting application
+08:31:00.778 [main] INFO  cs486.App - Starting application
+09:01:12.251 [main] INFO  cs486.App - Starting application
+09:01:12.260 [main] ERROR cs486.App - Text '02/08/2024 10:01' could not be parsed at index 2
+09:01:12.262 [main] INFO  cs486.App - Application finished
+09:03:21.841 [main] INFO  cs486.App - Starting application
+09:06:23.634 [main] INFO  cs486.App - Starting application
+09:11:42.535 [main] INFO  cs486.App - Starting application
+09:11:42.546 [main] ERROR cs486.App - Text 'Date' could not be parsed at index 0
+09:11:42.550 [main] INFO  cs486.App - Application finished
+09:43:16.051 [main] INFO  cs486.App - Starting application
+09:43:16.068 [main] ERROR cs486.App - Text 'Date' could not be parsed at index 0
+09:43:16.068 [main] ERROR cs486.App - Cannot invoke "java.time.LocalDateTime.toLocalDate()" because "checkInTime" is null
+09:43:16.069 [main] INFO  cs486.App - Application finished
+09:44:22.299 [main] INFO  cs486.App - Starting application
+09:44:22.318 [main] ERROR cs486.App - Text 'Date' could not be parsed at index 0
+09:44:22.324 [main] INFO  cs486.App - Application finished
+09:49:50.026 [main] INFO  cs486.App - Starting application
+09:49:50.042 [main] ERROR cs486.App - Text 'Date' could not be parsed at index 0
+09:49:50.045 [main] INFO  cs486.App - Application finished
+09:50:57.510 [main] INFO  cs486.App - Starting application
+09:50:57.522 [main] ERROR cs486.App - Text 'Date' could not be parsed at index 0
+09:50:57.525 [main] INFO  cs486.App - Application finished
+09:51:36.806 [main] INFO  cs486.App - Starting application
+09:51:36.817 [main] ERROR cs486.App - Text 'Date' could not be parsed at index 0
+09:51:36.822 [main] INFO  cs486.App - Application finished
+10:18:04.503 [main] INFO  cs486.App - Starting application
+10:18:04.514 [main] ERROR cs486.App - Error generating attendance sheets: 
+java.time.format.DateTimeParseException: Text 'Date' could not be parsed at index 0
+	at java.base/java.time.format.DateTimeFormatter.parseResolved0(DateTimeFormatter.java:2052) ~[?:?]
+	at java.base/java.time.format.DateTimeFormatter.parse(DateTimeFormatter.java:1954) ~[?:?]
+	at java.base/java.time.LocalDateTime.parse(LocalDateTime.java:494) ~[?:?]
+	at cs486.App2.mapLatestAttendance(App2.java:69) ~[classes/:?]
+	at cs486.App2.generateAttendanceSheets(App2.java:50) ~[classes/:?]
+	at cs486.App2.main(App2.java:39) [classes/:?]
+10:18:04.526 [main] INFO  cs486.App - Application finished
+10:27:26.298 [main] INFO  cs486.App - Starting application
+10:27:26.316 [main] ERROR cs486.App - Text 'Date' could not be parsed at index 0
+10:27:26.318 [main] ERROR cs486.App - Text 'Date' could not be parsed at index 0
+10:27:26.323 [main] INFO  cs486.App - Application finished
+10:35:01.107 [main] INFO  cs486.App - Starting application
+10:35:01.151 [main] ERROR cs486.App - Text 'Date' could not be parsed at index 0
+10:35:01.158 [main] ERROR cs486.App - Text 'Date' could not be parsed at index 0
+10:35:01.168 [main] INFO  cs486.App - Application finished
+11:19:31.018 [main] INFO  cs486.App - Starting application
+11:19:31.046 [main] ERROR cs486.App - Text 'Date' could not be parsed at index 0
+11:19:31.047 [main] ERROR cs486.App - Text '2/7/2024 4:17' could not be parsed at index 0
+11:19:31.047 [main] ERROR cs486.App - Text '2/7/2024 3:31' could not be parsed at index 0
+11:19:31.047 [main] ERROR cs486.App - Text '2/7/2024 17:52' could not be parsed at index 0
+11:19:31.047 [main] ERROR cs486.App - Text '2/7/2024 14:07' could not be parsed at index 0
+11:19:31.048 [main] ERROR cs486.App - Text '2/7/2024 19:55' could not be parsed at index 0
+11:19:31.048 [main] ERROR cs486.App - Text '2/7/2024 19:14' could not be parsed at index 0
+11:19:31.049 [main] ERROR cs486.App - Text '2/7/2024 8:27' could not be parsed at index 0
+11:19:31.049 [main] ERROR cs486.App - Text '2/7/2024 9:10' could not be parsed at index 0
+11:19:31.049 [main] ERROR cs486.App - Text '2/7/2024 19:04' could not be parsed at index 0
+11:19:31.050 [main] ERROR cs486.App - Text '2/7/2024 5:40' could not be parsed at index 0
+11:19:31.050 [main] ERROR cs486.App - Text '2/7/2024 18:14' could not be parsed at index 0
+11:19:31.050 [main] ERROR cs486.App - Text '2/7/2024 2:27' could not be parsed at index 0
+11:19:31.051 [main] ERROR cs486.App - Text '2/7/2024 19:51' could not be parsed at index 0
+11:19:31.051 [main] ERROR cs486.App - Text '2/7/2024 3:04' could not be parsed at index 0
+11:19:31.051 [main] ERROR cs486.App - Text '2/7/2024 5:25' could not be parsed at index 0
+11:19:31.052 [main] ERROR cs486.App - Text '2/7/2024 10:07' could not be parsed at index 0
+11:19:31.052 [main] ERROR cs486.App - Text '2/7/2024 22:34' could not be parsed at index 0
+11:19:31.052 [main] ERROR cs486.App - Text '2/7/2024 5:43' could not be parsed at index 0
+11:19:31.054 [main] ERROR cs486.App - Text '2/7/2024 2:14' could not be parsed at index 0
+11:19:31.054 [main] ERROR cs486.App - Text '2/7/2024 22:12' could not be parsed at index 0
+11:19:31.054 [main] ERROR cs486.App - Text '2/7/2024 14:42' could not be parsed at index 0
+11:19:31.054 [main] ERROR cs486.App - Text '2/7/2024 15:20' could not be parsed at index 0
+11:19:31.055 [main] ERROR cs486.App - Text '2/7/2024 10:58' could not be parsed at index 0
+11:19:31.055 [main] ERROR cs486.App - Text '2/7/2024 23:40' could not be parsed at index 0
+11:19:31.055 [main] ERROR cs486.App - Text '2/7/2024 7:06' could not be parsed at index 0
+11:19:31.056 [main] ERROR cs486.App - Text '2/7/2024 3:36' could not be parsed at index 0
+11:19:31.056 [main] ERROR cs486.App - Text '2/7/2024 20:00' could not be parsed at index 0
+11:19:31.057 [main] ERROR cs486.App - Text '2/7/2024 21:08' could not be parsed at index 0
+11:19:31.057 [main] ERROR cs486.App - Text '2/7/2024 11:42' could not be parsed at index 0
+11:19:31.057 [main] ERROR cs486.App - Text '2/7/2024 18:39' could not be parsed at index 0
+11:19:31.057 [main] ERROR cs486.App - Text '2/7/2024 10:14' could not be parsed at index 0
+11:19:31.058 [main] ERROR cs486.App - Text '2/7/2024 0:25' could not be parsed at index 0
+11:19:31.058 [main] ERROR cs486.App - Text '2/7/2024 3:48' could not be parsed at index 0
+11:19:31.059 [main] ERROR cs486.App - Text '2/7/2024 17:33' could not be parsed at index 0
+11:19:31.059 [main] ERROR cs486.App - Text '2/7/2024 10:45' could not be parsed at index 0
+11:19:31.060 [main] ERROR cs486.App - Text '2/7/2024 0:33' could not be parsed at index 0
+11:19:31.060 [main] ERROR cs486.App - Text '2/7/2024 1:34' could not be parsed at index 0
+11:19:31.060 [main] ERROR cs486.App - Text '2/7/2024 20:48' could not be parsed at index 0
+11:19:31.061 [main] ERROR cs486.App - Text '2/7/2024 15:01' could not be parsed at index 0
+11:19:31.061 [main] ERROR cs486.App - Text '2/7/2024 19:01' could not be parsed at index 0
+11:19:31.061 [main] ERROR cs486.App - Text '2/7/2024 4:11' could not be parsed at index 0
+11:19:31.062 [main] ERROR cs486.App - Text '2/7/2024 6:23' could not be parsed at index 0
+11:19:31.062 [main] ERROR cs486.App - Text '2/7/2024 6:19' could not be parsed at index 0
+11:19:31.062 [main] ERROR cs486.App - Text '2/7/2024 12:26' could not be parsed at index 0
+11:19:31.063 [main] ERROR cs486.App - Text '2/7/2024 15:26' could not be parsed at index 0
+11:19:31.063 [main] ERROR cs486.App - Text '2/7/2024 4:53' could not be parsed at index 0
+11:19:31.064 [main] ERROR cs486.App - Text '2/7/2024 13:11' could not be parsed at index 0
+11:19:31.064 [main] ERROR cs486.App - Text '2/7/2024 19:26' could not be parsed at index 0
+11:19:31.064 [main] ERROR cs486.App - Text '2/7/2024 15:02' could not be parsed at index 0
+11:19:31.065 [main] ERROR cs486.App - Text '2/7/2024 6:20' could not be parsed at index 0
+11:19:31.065 [main] ERROR cs486.App - Text '2/7/2024 19:10' could not be parsed at index 0
+11:19:31.065 [main] ERROR cs486.App - Text '2/7/2024 23:15' could not be parsed at index 0
+11:19:31.065 [main] ERROR cs486.App - Text '2/7/2024 9:24' could not be parsed at index 0
+11:19:31.066 [main] ERROR cs486.App - Text '2/7/2024 7:40' could not be parsed at index 0
+11:19:31.066 [main] ERROR cs486.App - Text '2/7/2024 10:38' could not be parsed at index 0
+11:19:31.066 [main] ERROR cs486.App - Text '2/7/2024 13:13' could not be parsed at index 0
+11:19:31.067 [main] ERROR cs486.App - Text '2/7/2024 18:51' could not be parsed at index 0
+11:19:31.067 [main] ERROR cs486.App - Text '2/7/2024 2:36' could not be parsed at index 0
+11:19:31.067 [main] ERROR cs486.App - Text '2/7/2024 9:57' could not be parsed at index 0
+11:19:31.068 [main] ERROR cs486.App - Text '2/7/2024 16:23' could not be parsed at index 0
+11:19:31.068 [main] ERROR cs486.App - Text '2/7/2024 14:05' could not be parsed at index 0
+11:19:31.068 [main] ERROR cs486.App - Text '2/7/2024 5:41' could not be parsed at index 0
+11:19:31.068 [main] ERROR cs486.App - Text '2/7/2024 7:42' could not be parsed at index 0
+11:19:31.069 [main] ERROR cs486.App - Text '2/7/2024 12:13' could not be parsed at index 0
+11:19:31.069 [main] ERROR cs486.App - Text '2/7/2024 10:34' could not be parsed at index 0
+11:19:31.069 [main] ERROR cs486.App - Text '2/7/2024 11:11' could not be parsed at index 0
+11:19:31.069 [main] ERROR cs486.App - Text '2/7/2024 4:48' could not be parsed at index 0
+11:19:31.069 [main] ERROR cs486.App - Text '2/7/2024 17:52' could not be parsed at index 0
+11:19:31.069 [main] ERROR cs486.App - Text '2/7/2024 6:51' could not be parsed at index 0
+11:19:31.070 [main] ERROR cs486.App - Text '2/7/2024 0:19' could not be parsed at index 0
+11:19:31.070 [main] ERROR cs486.App - Text '2/7/2024 12:46' could not be parsed at index 0
+11:19:31.070 [main] ERROR cs486.App - Text '2/7/2024 10:46' could not be parsed at index 0
+11:19:31.071 [main] ERROR cs486.App - Text '2/7/2024 19:49' could not be parsed at index 0
+11:19:31.071 [main] ERROR cs486.App - Text '2/7/2024 8:50' could not be parsed at index 0
+11:19:31.071 [main] ERROR cs486.App - Text '2/7/2024 17:13' could not be parsed at index 0
+11:19:31.071 [main] ERROR cs486.App - Text '2/7/2024 23:42' could not be parsed at index 0
+11:19:31.072 [main] ERROR cs486.App - Text '2/7/2024 21:41' could not be parsed at index 0
+11:19:31.072 [main] ERROR cs486.App - Text '2/7/2024 1:58' could not be parsed at index 0
+11:19:31.072 [main] ERROR cs486.App - Text '2/7/2024 10:40' could not be parsed at index 0
+11:19:31.073 [main] ERROR cs486.App - Text '2/7/2024 7:40' could not be parsed at index 0
+11:19:31.073 [main] ERROR cs486.App - Text '2/7/2024 12:22' could not be parsed at index 0
+11:19:31.074 [main] ERROR cs486.App - Text '2/7/2024 18:02' could not be parsed at index 0
+11:19:31.074 [main] ERROR cs486.App - Text '2/7/2024 2:07' could not be parsed at index 0
+11:19:31.075 [main] ERROR cs486.App - Text '2/7/2024 14:24' could not be parsed at index 0
+11:19:31.075 [main] ERROR cs486.App - Text '2/7/2024 9:29' could not be parsed at index 0
+11:19:31.075 [main] ERROR cs486.App - Text '2/7/2024 13:02' could not be parsed at index 0
+11:19:31.075 [main] ERROR cs486.App - Text '2/7/2024 12:53' could not be parsed at index 0
+11:19:31.076 [main] ERROR cs486.App - Text '2/7/2024 5:31' could not be parsed at index 0
+11:19:31.076 [main] ERROR cs486.App - Text '2/7/2024 19:06' could not be parsed at index 0
+11:19:31.077 [main] ERROR cs486.App - Text '2/7/2024 20:40' could not be parsed at index 0
+11:19:31.077 [main] ERROR cs486.App - Text '2/7/2024 20:32' could not be parsed at index 0
+11:19:31.077 [main] ERROR cs486.App - Text '2/7/2024 9:36' could not be parsed at index 0
+11:19:31.078 [main] ERROR cs486.App - Text '2/7/2024 12:40' could not be parsed at index 0
+11:19:31.078 [main] ERROR cs486.App - Text '2/7/2024 19:55' could not be parsed at index 0
+11:19:31.079 [main] ERROR cs486.App - Text '2/7/2024 13:59' could not be parsed at index 0
+11:19:31.079 [main] ERROR cs486.App - Text '2/7/2024 3:20' could not be parsed at index 0
+11:19:31.079 [main] ERROR cs486.App - Text '2/7/2024 15:20' could not be parsed at index 0
+11:19:31.079 [main] ERROR cs486.App - Text '2/7/2024 5:01' could not be parsed at index 0
+11:19:31.081 [main] ERROR cs486.App - Text '2/7/2024 13:21' could not be parsed at index 0
+11:19:31.081 [main] ERROR cs486.App - Text '2/7/2024 14:23' could not be parsed at index 0
+11:19:31.081 [main] ERROR cs486.App - Text '2/7/2024 16:03' could not be parsed at index 0
+11:19:31.082 [main] ERROR cs486.App - Text '2/7/2024 2:36' could not be parsed at index 0
+11:19:31.082 [main] ERROR cs486.App - Text '2/7/2024 10:39' could not be parsed at index 0
+11:19:31.083 [main] ERROR cs486.App - Text '2/7/2024 4:26' could not be parsed at index 0
+11:19:31.083 [main] ERROR cs486.App - Text '2/7/2024 4:08' could not be parsed at index 0
+11:19:31.083 [main] ERROR cs486.App - Text '2/7/2024 16:04' could not be parsed at index 0
+11:19:31.084 [main] ERROR cs486.App - Text '2/7/2024 9:37' could not be parsed at index 0
+11:19:31.084 [main] ERROR cs486.App - Text '2/7/2024 23:05' could not be parsed at index 0
+11:19:31.084 [main] ERROR cs486.App - Text '2/7/2024 6:08' could not be parsed at index 0
+11:19:31.085 [main] ERROR cs486.App - Text '2/7/2024 3:10' could not be parsed at index 0
+11:19:31.085 [main] ERROR cs486.App - Text '2/7/2024 9:46' could not be parsed at index 0
+11:19:31.085 [main] ERROR cs486.App - Text '2/7/2024 3:29' could not be parsed at index 0
+11:19:31.086 [main] ERROR cs486.App - Text '2/7/2024 10:35' could not be parsed at index 0
+11:19:31.086 [main] ERROR cs486.App - Text '2/7/2024 6:02' could not be parsed at index 0
+11:19:31.086 [main] ERROR cs486.App - Text '2/7/2024 17:45' could not be parsed at index 0
+11:19:31.086 [main] ERROR cs486.App - Text '2/7/2024 1:56' could not be parsed at index 0
+11:19:31.086 [main] ERROR cs486.App - Text '2/7/2024 16:32' could not be parsed at index 0
+11:19:31.087 [main] ERROR cs486.App - Text '2/7/2024 7:24' could not be parsed at index 0
+11:19:31.087 [main] ERROR cs486.App - Text '2/7/2024 4:43' could not be parsed at index 0
+11:19:31.087 [main] ERROR cs486.App - Text '2/7/2024 19:43' could not be parsed at index 0
+11:19:31.087 [main] ERROR cs486.App - Text '2/7/2024 23:25' could not be parsed at index 0
+11:19:31.088 [main] ERROR cs486.App - Text '2/7/2024 17:17' could not be parsed at index 0
+11:19:31.088 [main] ERROR cs486.App - Text '2/7/2024 4:03' could not be parsed at index 0
+11:19:31.088 [main] ERROR cs486.App - Text '2/7/2024 20:38' could not be parsed at index 0
+11:19:31.089 [main] ERROR cs486.App - Text '2/7/2024 22:36' could not be parsed at index 0
+11:19:31.089 [main] ERROR cs486.App - Text '2/7/2024 9:20' could not be parsed at index 0
+11:19:31.090 [main] ERROR cs486.App - Text '2/7/2024 16:32' could not be parsed at index 0
+11:19:31.090 [main] ERROR cs486.App - Text '2/7/2024 11:39' could not be parsed at index 0
+11:19:31.090 [main] ERROR cs486.App - Text '2/7/2024 22:21' could not be parsed at index 0
+11:19:31.091 [main] ERROR cs486.App - Text '2/7/2024 6:23' could not be parsed at index 0
+11:19:31.091 [main] ERROR cs486.App - Text '2/7/2024 10:34' could not be parsed at index 0
+11:19:31.091 [main] ERROR cs486.App - Text '2/7/2024 17:17' could not be parsed at index 0
+11:19:31.092 [main] ERROR cs486.App - Text '2/7/2024 13:02' could not be parsed at index 0
+11:19:31.092 [main] ERROR cs486.App - Text '2/7/2024 6:20' could not be parsed at index 0
+11:19:31.093 [main] ERROR cs486.App - Text '2/7/2024 20:11' could not be parsed at index 0
+11:19:31.093 [main] ERROR cs486.App - Text '2/7/2024 16:09' could not be parsed at index 0
+11:19:31.094 [main] ERROR cs486.App - Text '2/7/2024 6:27' could not be parsed at index 0
+11:19:31.094 [main] ERROR cs486.App - Text '2/7/2024 13:34' could not be parsed at index 0
+11:19:31.094 [main] ERROR cs486.App - Text '2/7/2024 8:42' could not be parsed at index 0
+11:19:31.095 [main] ERROR cs486.App - Text '2/7/2024 1:01' could not be parsed at index 0
+11:19:31.095 [main] ERROR cs486.App - Text '2/7/2024 12:58' could not be parsed at index 0
+11:19:31.095 [main] ERROR cs486.App - Text '2/7/2024 23:20' could not be parsed at index 0
+11:19:31.095 [main] ERROR cs486.App - Text '2/7/2024 22:37' could not be parsed at index 0
+11:19:31.096 [main] ERROR cs486.App - Text '2/7/2024 7:44' could not be parsed at index 0
+11:19:31.096 [main] ERROR cs486.App - Text '2/7/2024 17:52' could not be parsed at index 0
+11:19:31.096 [main] ERROR cs486.App - Text '2/7/2024 9:35' could not be parsed at index 0
+11:19:31.097 [main] ERROR cs486.App - Text '2/7/2024 10:11' could not be parsed at index 0
+11:19:31.097 [main] ERROR cs486.App - Text '2/7/2024 18:42' could not be parsed at index 0
+11:19:31.097 [main] ERROR cs486.App - Text '2/7/2024 0:30' could not be parsed at index 0
+11:19:31.097 [main] ERROR cs486.App - Text '2/7/2024 18:33' could not be parsed at index 0
+11:19:31.098 [main] ERROR cs486.App - Text '2/7/2024 1:10' could not be parsed at index 0
+11:19:31.098 [main] ERROR cs486.App - Text '2/7/2024 18:07' could not be parsed at index 0
+11:19:31.098 [main] ERROR cs486.App - Text '2/7/2024 12:05' could not be parsed at index 0
+11:19:31.098 [main] ERROR cs486.App - Text '2/7/2024 10:10' could not be parsed at index 0
+11:19:31.099 [main] ERROR cs486.App - Text '2/7/2024 23:18' could not be parsed at index 0
+11:19:31.099 [main] ERROR cs486.App - Text '2/7/2024 11:23' could not be parsed at index 0
+11:19:31.099 [main] ERROR cs486.App - Text '2/7/2024 0:33' could not be parsed at index 0
+11:19:31.100 [main] ERROR cs486.App - Text '2/7/2024 20:51' could not be parsed at index 0
+11:19:31.100 [main] ERROR cs486.App - Text '2/7/2024 9:11' could not be parsed at index 0
+11:19:31.100 [main] ERROR cs486.App - Text '2/7/2024 2:12' could not be parsed at index 0
+11:19:31.100 [main] ERROR cs486.App - Text '2/7/2024 19:42' could not be parsed at index 0
+11:19:31.100 [main] ERROR cs486.App - Text '2/7/2024 18:28' could not be parsed at index 0
+11:19:31.102 [main] ERROR cs486.App - Text '2/7/2024 1:06' could not be parsed at index 0
+11:19:31.102 [main] ERROR cs486.App - Text '2/7/2024 14:40' could not be parsed at index 0
+11:19:31.102 [main] ERROR cs486.App - Text '2/7/2024 19:42' could not be parsed at index 0
+11:19:31.102 [main] ERROR cs486.App - Text '2/7/2024 11:43' could not be parsed at index 0
+11:19:31.103 [main] ERROR cs486.App - Text '2/7/2024 10:26' could not be parsed at index 0
+11:19:31.103 [main] ERROR cs486.App - Text '2/7/2024 21:08' could not be parsed at index 0
+11:19:31.103 [main] ERROR cs486.App - Text '2/7/2024 3:06' could not be parsed at index 0
+11:19:31.103 [main] ERROR cs486.App - Text '2/7/2024 7:56' could not be parsed at index 0
+11:19:31.103 [main] ERROR cs486.App - Text '2/7/2024 19:27' could not be parsed at index 0
+11:19:31.104 [main] ERROR cs486.App - Text '2/7/2024 21:21' could not be parsed at index 0
+11:19:31.104 [main] ERROR cs486.App - Text '2/7/2024 12:10' could not be parsed at index 0
+11:19:31.104 [main] ERROR cs486.App - Text '2/7/2024 10:14' could not be parsed at index 0
+11:19:31.104 [main] ERROR cs486.App - Text '2/7/2024 17:58' could not be parsed at index 0
+11:19:31.105 [main] ERROR cs486.App - Text '2/7/2024 12:03' could not be parsed at index 0
+11:19:31.105 [main] ERROR cs486.App - Text '2/7/2024 15:54' could not be parsed at index 0
+11:19:31.105 [main] ERROR cs486.App - Text 'Date' could not be parsed at index 0
+11:19:31.106 [main] ERROR cs486.App - Text '2/7/2024 4:17' could not be parsed at index 0
+11:19:31.106 [main] ERROR cs486.App - Text '2/7/2024 3:31' could not be parsed at index 0
+11:19:31.106 [main] ERROR cs486.App - Text '2/7/2024 17:52' could not be parsed at index 0
+11:19:31.106 [main] ERROR cs486.App - Text '2/7/2024 14:07' could not be parsed at index 0
+11:19:31.106 [main] ERROR cs486.App - Text '2/7/2024 19:55' could not be parsed at index 0
+11:19:31.107 [main] ERROR cs486.App - Text '2/7/2024 19:14' could not be parsed at index 0
+11:19:31.107 [main] ERROR cs486.App - Text '2/7/2024 8:27' could not be parsed at index 0
+11:19:31.107 [main] ERROR cs486.App - Text '2/7/2024 9:10' could not be parsed at index 0
+11:19:31.108 [main] ERROR cs486.App - Text '2/7/2024 19:04' could not be parsed at index 0
+11:19:31.108 [main] ERROR cs486.App - Text '2/7/2024 5:40' could not be parsed at index 0
+11:19:31.108 [main] ERROR cs486.App - Text '2/7/2024 18:14' could not be parsed at index 0
+11:19:31.109 [main] ERROR cs486.App - Text '2/7/2024 2:27' could not be parsed at index 0
+11:19:31.109 [main] ERROR cs486.App - Text '2/7/2024 19:51' could not be parsed at index 0
+11:19:31.109 [main] ERROR cs486.App - Text '2/7/2024 3:04' could not be parsed at index 0
+11:19:31.110 [main] ERROR cs486.App - Text '2/7/2024 5:25' could not be parsed at index 0
+11:19:31.110 [main] ERROR cs486.App - Text '2/7/2024 10:07' could not be parsed at index 0
+11:19:31.110 [main] ERROR cs486.App - Text '2/7/2024 22:34' could not be parsed at index 0
+11:19:31.110 [main] ERROR cs486.App - Text '2/7/2024 5:43' could not be parsed at index 0
+11:19:31.110 [main] ERROR cs486.App - Text '2/7/2024 2:14' could not be parsed at index 0
+11:19:31.111 [main] ERROR cs486.App - Text '2/7/2024 22:12' could not be parsed at index 0
+11:19:31.111 [main] ERROR cs486.App - Text '2/7/2024 14:42' could not be parsed at index 0
+11:19:31.111 [main] ERROR cs486.App - Text '2/7/2024 15:20' could not be parsed at index 0
+11:19:31.111 [main] ERROR cs486.App - Text '2/7/2024 10:58' could not be parsed at index 0
+11:19:31.111 [main] ERROR cs486.App - Text '2/7/2024 23:40' could not be parsed at index 0
+11:19:31.111 [main] ERROR cs486.App - Text '2/7/2024 7:06' could not be parsed at index 0
+11:19:31.111 [main] ERROR cs486.App - Text '2/7/2024 3:36' could not be parsed at index 0
+11:19:31.113 [main] ERROR cs486.App - Text '2/7/2024 20:00' could not be parsed at index 0
+11:19:31.113 [main] ERROR cs486.App - Text '2/7/2024 21:08' could not be parsed at index 0
+11:19:31.113 [main] ERROR cs486.App - Text '2/7/2024 11:42' could not be parsed at index 0
+11:19:31.113 [main] ERROR cs486.App - Text '2/7/2024 18:39' could not be parsed at index 0
+11:19:31.113 [main] ERROR cs486.App - Text '2/7/2024 10:14' could not be parsed at index 0
+11:19:31.113 [main] ERROR cs486.App - Text '2/7/2024 0:25' could not be parsed at index 0
+11:19:31.113 [main] ERROR cs486.App - Text '2/7/2024 3:48' could not be parsed at index 0
+11:19:31.114 [main] ERROR cs486.App - Text '2/7/2024 17:33' could not be parsed at index 0
+11:19:31.114 [main] ERROR cs486.App - Text '2/7/2024 10:45' could not be parsed at index 0
+11:19:31.114 [main] ERROR cs486.App - Text '2/7/2024 0:33' could not be parsed at index 0
+11:19:31.114 [main] ERROR cs486.App - Text '2/7/2024 1:34' could not be parsed at index 0
+11:19:31.114 [main] ERROR cs486.App - Text '2/7/2024 20:48' could not be parsed at index 0
+11:19:31.114 [main] ERROR cs486.App - Text '2/7/2024 15:01' could not be parsed at index 0
+11:19:31.115 [main] ERROR cs486.App - Text '2/7/2024 19:01' could not be parsed at index 0
+11:19:31.115 [main] ERROR cs486.App - Text '2/7/2024 4:11' could not be parsed at index 0
+11:19:31.116 [main] ERROR cs486.App - Text '2/7/2024 6:23' could not be parsed at index 0
+11:19:31.117 [main] ERROR cs486.App - Text '2/7/2024 6:19' could not be parsed at index 0
+11:19:31.117 [main] ERROR cs486.App - Text '2/7/2024 12:26' could not be parsed at index 0
+11:19:31.117 [main] ERROR cs486.App - Text '2/7/2024 15:26' could not be parsed at index 0
+11:19:31.117 [main] ERROR cs486.App - Text '2/7/2024 4:53' could not be parsed at index 0
+11:19:31.117 [main] ERROR cs486.App - Text '2/7/2024 13:11' could not be parsed at index 0
+11:19:31.118 [main] ERROR cs486.App - Text '2/7/2024 19:26' could not be parsed at index 0
+11:19:31.118 [main] ERROR cs486.App - Text '2/7/2024 15:02' could not be parsed at index 0
+11:19:31.118 [main] ERROR cs486.App - Text '2/7/2024 6:20' could not be parsed at index 0
+11:19:31.118 [main] ERROR cs486.App - Text '2/7/2024 19:10' could not be parsed at index 0
+11:19:31.118 [main] ERROR cs486.App - Text '2/7/2024 23:15' could not be parsed at index 0
+11:19:31.119 [main] ERROR cs486.App - Text '2/7/2024 9:24' could not be parsed at index 0
+11:19:31.119 [main] ERROR cs486.App - Text '2/7/2024 7:40' could not be parsed at index 0
+11:19:31.119 [main] ERROR cs486.App - Text '2/7/2024 10:38' could not be parsed at index 0
+11:19:31.119 [main] ERROR cs486.App - Text '2/7/2024 13:13' could not be parsed at index 0
+11:19:31.119 [main] ERROR cs486.App - Text '2/7/2024 18:51' could not be parsed at index 0
+11:19:31.119 [main] ERROR cs486.App - Text '2/7/2024 2:36' could not be parsed at index 0
+11:19:31.120 [main] ERROR cs486.App - Text '2/7/2024 9:57' could not be parsed at index 0
+11:19:31.120 [main] ERROR cs486.App - Text '2/7/2024 16:23' could not be parsed at index 0
+11:19:31.120 [main] ERROR cs486.App - Text '2/7/2024 14:05' could not be parsed at index 0
+11:19:31.120 [main] ERROR cs486.App - Text '2/7/2024 5:41' could not be parsed at index 0
+11:19:31.120 [main] ERROR cs486.App - Text '2/7/2024 7:42' could not be parsed at index 0
+11:19:31.121 [main] ERROR cs486.App - Text '2/7/2024 12:13' could not be parsed at index 0
+11:19:31.121 [main] ERROR cs486.App - Text '2/7/2024 10:34' could not be parsed at index 0
+11:19:31.121 [main] ERROR cs486.App - Text '2/7/2024 11:11' could not be parsed at index 0
+11:19:31.121 [main] ERROR cs486.App - Text '2/7/2024 4:48' could not be parsed at index 0
+11:19:31.121 [main] ERROR cs486.App - Text '2/7/2024 17:52' could not be parsed at index 0
+11:19:31.122 [main] ERROR cs486.App - Text '2/7/2024 6:51' could not be parsed at index 0
+11:19:31.122 [main] ERROR cs486.App - Text '2/7/2024 0:19' could not be parsed at index 0
+11:19:31.122 [main] ERROR cs486.App - Text '2/7/2024 12:46' could not be parsed at index 0
+11:19:31.122 [main] ERROR cs486.App - Text '2/7/2024 10:46' could not be parsed at index 0
+11:19:31.122 [main] ERROR cs486.App - Text '2/7/2024 19:49' could not be parsed at index 0
+11:19:31.123 [main] ERROR cs486.App - Text '2/7/2024 8:50' could not be parsed at index 0
+11:19:31.123 [main] ERROR cs486.App - Text '2/7/2024 17:13' could not be parsed at index 0
+11:19:31.123 [main] ERROR cs486.App - Text '2/7/2024 23:42' could not be parsed at index 0
+11:19:31.123 [main] ERROR cs486.App - Text '2/7/2024 21:41' could not be parsed at index 0
+11:19:31.124 [main] ERROR cs486.App - Text '2/7/2024 1:58' could not be parsed at index 0
+11:19:31.124 [main] ERROR cs486.App - Text '2/7/2024 10:40' could not be parsed at index 0
+11:19:31.124 [main] ERROR cs486.App - Text '2/7/2024 7:40' could not be parsed at index 0
+11:19:31.124 [main] ERROR cs486.App - Text '2/7/2024 12:22' could not be parsed at index 0
+11:19:31.124 [main] ERROR cs486.App - Text '2/7/2024 18:02' could not be parsed at index 0
+11:19:31.125 [main] ERROR cs486.App - Text '2/7/2024 2:07' could not be parsed at index 0
+11:19:31.125 [main] ERROR cs486.App - Text '2/7/2024 14:24' could not be parsed at index 0
+11:19:31.125 [main] ERROR cs486.App - Text '2/7/2024 9:29' could not be parsed at index 0
+11:19:31.125 [main] ERROR cs486.App - Text '2/7/2024 13:02' could not be parsed at index 0
+11:19:31.125 [main] ERROR cs486.App - Text '2/7/2024 12:53' could not be parsed at index 0
+11:19:31.125 [main] ERROR cs486.App - Text '2/7/2024 5:31' could not be parsed at index 0
+11:19:31.126 [main] ERROR cs486.App - Text '2/7/2024 19:06' could not be parsed at index 0
+11:19:31.126 [main] ERROR cs486.App - Text '2/7/2024 20:40' could not be parsed at index 0
+11:19:31.126 [main] ERROR cs486.App - Text '2/7/2024 20:32' could not be parsed at index 0
+11:19:31.126 [main] ERROR cs486.App - Text '2/7/2024 9:36' could not be parsed at index 0
+11:19:31.126 [main] ERROR cs486.App - Text '2/7/2024 12:40' could not be parsed at index 0
+11:19:31.126 [main] ERROR cs486.App - Text '2/7/2024 19:55' could not be parsed at index 0
+11:19:31.126 [main] ERROR cs486.App - Text '2/7/2024 13:59' could not be parsed at index 0
+11:19:31.127 [main] ERROR cs486.App - Text '2/7/2024 3:20' could not be parsed at index 0
+11:19:31.127 [main] ERROR cs486.App - Text '2/7/2024 15:20' could not be parsed at index 0
+11:19:31.127 [main] ERROR cs486.App - Text '2/7/2024 5:01' could not be parsed at index 0
+11:19:31.127 [main] ERROR cs486.App - Text '2/7/2024 13:21' could not be parsed at index 0
+11:19:31.127 [main] ERROR cs486.App - Text '2/7/2024 14:23' could not be parsed at index 0
+11:19:31.127 [main] ERROR cs486.App - Text '2/7/2024 16:03' could not be parsed at index 0
+11:19:31.128 [main] ERROR cs486.App - Text '2/7/2024 2:36' could not be parsed at index 0
+11:19:31.128 [main] ERROR cs486.App - Text '2/7/2024 10:39' could not be parsed at index 0
+11:19:31.128 [main] ERROR cs486.App - Text '2/7/2024 4:26' could not be parsed at index 0
+11:19:31.128 [main] ERROR cs486.App - Text '2/7/2024 4:08' could not be parsed at index 0
+11:19:31.128 [main] ERROR cs486.App - Text '2/7/2024 16:04' could not be parsed at index 0
+11:19:31.128 [main] ERROR cs486.App - Text '2/7/2024 9:37' could not be parsed at index 0
+11:19:31.128 [main] ERROR cs486.App - Text '2/7/2024 23:05' could not be parsed at index 0
+11:19:31.128 [main] ERROR cs486.App - Text '2/7/2024 6:08' could not be parsed at index 0
+11:19:31.129 [main] ERROR cs486.App - Text '2/7/2024 3:10' could not be parsed at index 0
+11:19:31.129 [main] ERROR cs486.App - Text '2/7/2024 9:46' could not be parsed at index 0
+11:19:31.129 [main] ERROR cs486.App - Text '2/7/2024 3:29' could not be parsed at index 0
+11:19:31.129 [main] ERROR cs486.App - Text '2/7/2024 10:35' could not be parsed at index 0
+11:19:31.129 [main] ERROR cs486.App - Text '2/7/2024 6:02' could not be parsed at index 0
+11:19:31.129 [main] ERROR cs486.App - Text '2/7/2024 17:45' could not be parsed at index 0
+11:19:31.129 [main] ERROR cs486.App - Text '2/7/2024 1:56' could not be parsed at index 0
+11:19:31.129 [main] ERROR cs486.App - Text '2/7/2024 16:32' could not be parsed at index 0
+11:19:31.130 [main] ERROR cs486.App - Text '2/7/2024 7:24' could not be parsed at index 0
+11:19:31.130 [main] ERROR cs486.App - Text '2/7/2024 4:43' could not be parsed at index 0
+11:19:31.130 [main] ERROR cs486.App - Text '2/7/2024 19:43' could not be parsed at index 0
+11:19:31.130 [main] ERROR cs486.App - Text '2/7/2024 23:25' could not be parsed at index 0
+11:19:31.130 [main] ERROR cs486.App - Text '2/7/2024 17:17' could not be parsed at index 0
+11:19:31.130 [main] ERROR cs486.App - Text '2/7/2024 4:03' could not be parsed at index 0
+11:19:31.130 [main] ERROR cs486.App - Text '2/7/2024 20:38' could not be parsed at index 0
+11:19:31.130 [main] ERROR cs486.App - Text '2/7/2024 22:36' could not be parsed at index 0
+11:19:31.132 [main] ERROR cs486.App - Text '2/7/2024 9:20' could not be parsed at index 0
+11:19:31.132 [main] ERROR cs486.App - Text '2/7/2024 16:32' could not be parsed at index 0
+11:19:31.132 [main] ERROR cs486.App - Text '2/7/2024 11:39' could not be parsed at index 0
+11:19:31.132 [main] ERROR cs486.App - Text '2/7/2024 22:21' could not be parsed at index 0
+11:19:31.132 [main] ERROR cs486.App - Text '2/7/2024 6:23' could not be parsed at index 0
+11:19:31.133 [main] ERROR cs486.App - Text '2/7/2024 10:34' could not be parsed at index 0
+11:19:31.133 [main] ERROR cs486.App - Text '2/7/2024 17:17' could not be parsed at index 0
+11:19:31.133 [main] ERROR cs486.App - Text '2/7/2024 13:02' could not be parsed at index 0
+11:19:31.133 [main] ERROR cs486.App - Text '2/7/2024 6:20' could not be parsed at index 0
+11:19:31.134 [main] ERROR cs486.App - Text '2/7/2024 20:11' could not be parsed at index 0
+11:19:31.134 [main] ERROR cs486.App - Text '2/7/2024 16:09' could not be parsed at index 0
+11:19:31.134 [main] ERROR cs486.App - Text '2/7/2024 6:27' could not be parsed at index 0
+11:19:31.134 [main] ERROR cs486.App - Text '2/7/2024 13:34' could not be parsed at index 0
+11:19:31.134 [main] ERROR cs486.App - Text '2/7/2024 8:42' could not be parsed at index 0
+11:19:31.134 [main] ERROR cs486.App - Text '2/7/2024 1:01' could not be parsed at index 0
+11:19:31.135 [main] ERROR cs486.App - Text '2/7/2024 12:58' could not be parsed at index 0
+11:19:31.135 [main] ERROR cs486.App - Text '2/7/2024 23:20' could not be parsed at index 0
+11:19:31.135 [main] ERROR cs486.App - Text '2/7/2024 22:37' could not be parsed at index 0
+11:19:31.135 [main] ERROR cs486.App - Text '2/7/2024 7:44' could not be parsed at index 0
+11:19:31.135 [main] ERROR cs486.App - Text '2/7/2024 17:52' could not be parsed at index 0
+11:19:31.136 [main] ERROR cs486.App - Text '2/7/2024 9:35' could not be parsed at index 0
+11:19:31.136 [main] ERROR cs486.App - Text '2/7/2024 10:11' could not be parsed at index 0
+11:19:31.136 [main] ERROR cs486.App - Text '2/7/2024 18:42' could not be parsed at index 0
+11:19:31.136 [main] ERROR cs486.App - Text '2/7/2024 0:30' could not be parsed at index 0
+11:19:31.136 [main] ERROR cs486.App - Text '2/7/2024 18:33' could not be parsed at index 0
+11:19:31.136 [main] ERROR cs486.App - Text '2/7/2024 1:10' could not be parsed at index 0
+11:19:31.137 [main] ERROR cs486.App - Text '2/7/2024 18:07' could not be parsed at index 0
+11:19:31.137 [main] ERROR cs486.App - Text '2/7/2024 12:05' could not be parsed at index 0
+11:19:31.137 [main] ERROR cs486.App - Text '2/7/2024 10:10' could not be parsed at index 0
+11:19:31.137 [main] ERROR cs486.App - Text '2/7/2024 23:18' could not be parsed at index 0
+11:19:31.138 [main] ERROR cs486.App - Text '2/7/2024 11:23' could not be parsed at index 0
+11:19:31.138 [main] ERROR cs486.App - Text '2/7/2024 0:33' could not be parsed at index 0
+11:19:31.138 [main] ERROR cs486.App - Text '2/7/2024 20:51' could not be parsed at index 0
+11:19:31.138 [main] ERROR cs486.App - Text '2/7/2024 9:11' could not be parsed at index 0
+11:19:31.138 [main] ERROR cs486.App - Text '2/7/2024 2:12' could not be parsed at index 0
+11:19:31.139 [main] ERROR cs486.App - Text '2/7/2024 19:42' could not be parsed at index 0
+11:19:31.139 [main] ERROR cs486.App - Text '2/7/2024 18:28' could not be parsed at index 0
+11:19:31.139 [main] ERROR cs486.App - Text '2/7/2024 1:06' could not be parsed at index 0
+11:19:31.139 [main] ERROR cs486.App - Text '2/7/2024 14:40' could not be parsed at index 0
+11:19:31.139 [main] ERROR cs486.App - Text '2/7/2024 19:42' could not be parsed at index 0
+11:19:31.139 [main] ERROR cs486.App - Text '2/7/2024 11:43' could not be parsed at index 0
+11:19:31.140 [main] ERROR cs486.App - Text '2/7/2024 10:26' could not be parsed at index 0
+11:19:31.140 [main] ERROR cs486.App - Text '2/7/2024 21:08' could not be parsed at index 0
+11:19:31.140 [main] ERROR cs486.App - Text '2/7/2024 3:06' could not be parsed at index 0
+11:19:31.140 [main] ERROR cs486.App - Text '2/7/2024 7:56' could not be parsed at index 0
+11:19:31.140 [main] ERROR cs486.App - Text '2/7/2024 19:27' could not be parsed at index 0
+11:19:31.140 [main] ERROR cs486.App - Text '2/7/2024 21:21' could not be parsed at index 0
+11:19:31.140 [main] ERROR cs486.App - Text '2/7/2024 12:10' could not be parsed at index 0
+11:19:31.141 [main] ERROR cs486.App - Text '2/7/2024 10:14' could not be parsed at index 0
+11:19:31.141 [main] ERROR cs486.App - Text '2/7/2024 17:58' could not be parsed at index 0
+11:19:31.144 [main] ERROR cs486.App - Text '2/7/2024 12:03' could not be parsed at index 0
+11:19:31.144 [main] ERROR cs486.App - Text '2/7/2024 15:54' could not be parsed at index 0
+11:19:31.152 [main] INFO  cs486.App - Application finished
+11:23:15.340 [main] INFO  cs486.App - Starting application
+11:23:15.361 [main] ERROR cs486.App - Text 'Date' could not be parsed at index 0
+11:23:15.361 [main] ERROR cs486.App - Text '2/7/2024 4:17' could not be parsed at index 0
+11:23:15.362 [main] ERROR cs486.App - Text '2/7/2024 3:31' could not be parsed at index 0
+11:23:15.362 [main] ERROR cs486.App - Text '2/7/2024 17:52' could not be parsed at index 0
+11:23:15.362 [main] ERROR cs486.App - Text '2/7/2024 14:07' could not be parsed at index 0
+11:23:15.363 [main] ERROR cs486.App - Text '2/7/2024 19:55' could not be parsed at index 0
+11:23:15.363 [main] ERROR cs486.App - Text '2/7/2024 19:14' could not be parsed at index 0
+11:23:15.363 [main] ERROR cs486.App - Text '2/7/2024 8:27' could not be parsed at index 0
+11:23:15.364 [main] ERROR cs486.App - Text '2/7/2024 9:10' could not be parsed at index 0
+11:23:15.364 [main] ERROR cs486.App - Text '2/7/2024 19:04' could not be parsed at index 0
+11:23:15.365 [main] ERROR cs486.App - Text '2/7/2024 5:40' could not be parsed at index 0
+11:23:15.365 [main] ERROR cs486.App - Text '2/7/2024 18:14' could not be parsed at index 0
+11:23:15.365 [main] ERROR cs486.App - Text '2/7/2024 2:27' could not be parsed at index 0
+11:23:15.366 [main] ERROR cs486.App - Text '2/7/2024 19:51' could not be parsed at index 0
+11:23:15.367 [main] ERROR cs486.App - Text '2/7/2024 3:04' could not be parsed at index 0
+11:23:15.367 [main] ERROR cs486.App - Text '2/7/2024 5:25' could not be parsed at index 0
+11:23:15.368 [main] ERROR cs486.App - Text '2/7/2024 10:07' could not be parsed at index 0
+11:23:15.368 [main] ERROR cs486.App - Text '2/7/2024 22:34' could not be parsed at index 0
+11:23:15.368 [main] ERROR cs486.App - Text '2/7/2024 5:43' could not be parsed at index 0
+11:23:15.369 [main] ERROR cs486.App - Text '2/7/2024 2:14' could not be parsed at index 0
+11:23:15.369 [main] ERROR cs486.App - Text '2/7/2024 22:12' could not be parsed at index 0
+11:23:15.370 [main] ERROR cs486.App - Text '2/7/2024 14:42' could not be parsed at index 0
+11:23:15.371 [main] ERROR cs486.App - Text '2/7/2024 15:20' could not be parsed at index 0
+11:23:15.371 [main] ERROR cs486.App - Text '2/7/2024 10:58' could not be parsed at index 0
+11:23:15.371 [main] ERROR cs486.App - Text '2/7/2024 23:40' could not be parsed at index 0
+11:23:15.371 [main] ERROR cs486.App - Text '2/7/2024 7:06' could not be parsed at index 0
+11:23:15.372 [main] ERROR cs486.App - Text '2/7/2024 3:36' could not be parsed at index 0
+11:23:15.372 [main] ERROR cs486.App - Text '2/7/2024 20:00' could not be parsed at index 0
+11:23:15.373 [main] ERROR cs486.App - Text '2/7/2024 21:08' could not be parsed at index 0
+11:23:15.373 [main] ERROR cs486.App - Text '2/7/2024 11:42' could not be parsed at index 0
+11:23:15.373 [main] ERROR cs486.App - Text '2/7/2024 18:39' could not be parsed at index 0
+11:23:15.375 [main] ERROR cs486.App - Text '2/7/2024 10:14' could not be parsed at index 0
+11:23:15.375 [main] ERROR cs486.App - Text '2/7/2024 0:25' could not be parsed at index 0
+11:23:15.375 [main] ERROR cs486.App - Text '2/7/2024 3:48' could not be parsed at index 0
+11:23:15.376 [main] ERROR cs486.App - Text '2/7/2024 17:33' could not be parsed at index 0
+11:23:15.376 [main] ERROR cs486.App - Text '2/7/2024 10:45' could not be parsed at index 0
+11:23:15.377 [main] ERROR cs486.App - Text '2/7/2024 0:33' could not be parsed at index 0
+11:23:15.377 [main] ERROR cs486.App - Text '2/7/2024 1:34' could not be parsed at index 0
+11:23:15.377 [main] ERROR cs486.App - Text '2/7/2024 20:48' could not be parsed at index 0
+11:23:15.378 [main] ERROR cs486.App - Text '2/7/2024 15:01' could not be parsed at index 0
+11:23:15.379 [main] ERROR cs486.App - Text '2/7/2024 19:01' could not be parsed at index 0
+11:23:15.380 [main] ERROR cs486.App - Text '2/7/2024 4:11' could not be parsed at index 0
+11:23:15.380 [main] ERROR cs486.App - Text '2/7/2024 6:23' could not be parsed at index 0
+11:23:15.380 [main] ERROR cs486.App - Text '2/7/2024 6:19' could not be parsed at index 0
+11:23:15.381 [main] ERROR cs486.App - Text '2/7/2024 12:26' could not be parsed at index 0
+11:23:15.381 [main] ERROR cs486.App - Text '2/7/2024 15:26' could not be parsed at index 0
+11:23:15.381 [main] ERROR cs486.App - Text '2/7/2024 4:53' could not be parsed at index 0
+11:23:15.383 [main] ERROR cs486.App - Text '2/7/2024 13:11' could not be parsed at index 0
+11:23:15.383 [main] ERROR cs486.App - Text '2/7/2024 19:26' could not be parsed at index 0
+11:23:15.384 [main] ERROR cs486.App - Text '2/7/2024 15:02' could not be parsed at index 0
+11:23:15.384 [main] ERROR cs486.App - Text '2/7/2024 6:20' could not be parsed at index 0
+11:23:15.385 [main] ERROR cs486.App - Text '2/7/2024 19:10' could not be parsed at index 0
+11:23:15.385 [main] ERROR cs486.App - Text '2/7/2024 23:15' could not be parsed at index 0
+11:23:15.386 [main] ERROR cs486.App - Text '2/7/2024 9:24' could not be parsed at index 0
+11:23:15.386 [main] ERROR cs486.App - Text '2/7/2024 7:40' could not be parsed at index 0
+11:23:15.386 [main] ERROR cs486.App - Text '2/7/2024 10:38' could not be parsed at index 0
+11:23:15.387 [main] ERROR cs486.App - Text '2/7/2024 13:13' could not be parsed at index 0
+11:23:15.387 [main] ERROR cs486.App - Text '2/7/2024 18:51' could not be parsed at index 0
+11:23:15.387 [main] ERROR cs486.App - Text '2/7/2024 2:36' could not be parsed at index 0
+11:23:15.387 [main] ERROR cs486.App - Text '2/7/2024 9:57' could not be parsed at index 0
+11:23:15.388 [main] ERROR cs486.App - Text '2/7/2024 16:23' could not be parsed at index 0
+11:23:15.388 [main] ERROR cs486.App - Text '2/7/2024 14:05' could not be parsed at index 0
+11:23:15.388 [main] ERROR cs486.App - Text '2/7/2024 5:41' could not be parsed at index 0
+11:23:15.388 [main] ERROR cs486.App - Text '2/7/2024 7:42' could not be parsed at index 0
+11:23:15.389 [main] ERROR cs486.App - Text '2/7/2024 12:13' could not be parsed at index 0
+11:23:15.389 [main] ERROR cs486.App - Text '2/7/2024 10:34' could not be parsed at index 0
+11:23:15.389 [main] ERROR cs486.App - Text '2/7/2024 11:11' could not be parsed at index 0
+11:23:15.390 [main] ERROR cs486.App - Text '2/7/2024 4:48' could not be parsed at index 0
+11:23:15.390 [main] ERROR cs486.App - Text '2/7/2024 17:52' could not be parsed at index 0
+11:23:15.390 [main] ERROR cs486.App - Text '2/7/2024 6:51' could not be parsed at index 0
+11:23:15.390 [main] ERROR cs486.App - Text '2/7/2024 0:19' could not be parsed at index 0
+11:23:15.391 [main] ERROR cs486.App - Text '2/7/2024 12:46' could not be parsed at index 0
+11:23:15.391 [main] ERROR cs486.App - Text '2/7/2024 10:46' could not be parsed at index 0
+11:23:15.391 [main] ERROR cs486.App - Text '2/7/2024 19:49' could not be parsed at index 0
+11:23:15.392 [main] ERROR cs486.App - Text '2/7/2024 8:50' could not be parsed at index 0
+11:23:15.392 [main] ERROR cs486.App - Text '2/7/2024 17:13' could not be parsed at index 0
+11:23:15.392 [main] ERROR cs486.App - Text '2/7/2024 23:42' could not be parsed at index 0
+11:23:15.393 [main] ERROR cs486.App - Text '2/7/2024 21:41' could not be parsed at index 0
+11:23:15.393 [main] ERROR cs486.App - Text '2/7/2024 1:58' could not be parsed at index 0
+11:23:15.393 [main] ERROR cs486.App - Text '2/7/2024 10:40' could not be parsed at index 0
+11:23:15.393 [main] ERROR cs486.App - Text '2/7/2024 7:40' could not be parsed at index 0
+11:23:15.394 [main] ERROR cs486.App - Text '2/7/2024 12:22' could not be parsed at index 0
+11:23:15.394 [main] ERROR cs486.App - Text '2/7/2024 18:02' could not be parsed at index 0
+11:23:15.394 [main] ERROR cs486.App - Text '2/7/2024 2:07' could not be parsed at index 0
+11:23:15.394 [main] ERROR cs486.App - Text '2/7/2024 14:24' could not be parsed at index 0
+11:23:15.394 [main] ERROR cs486.App - Text '2/7/2024 9:29' could not be parsed at index 0
+11:23:15.395 [main] ERROR cs486.App - Text '2/7/2024 13:02' could not be parsed at index 0
+11:23:15.395 [main] ERROR cs486.App - Text '2/7/2024 12:53' could not be parsed at index 0
+11:23:15.395 [main] ERROR cs486.App - Text '2/7/2024 5:31' could not be parsed at index 0
+11:23:15.395 [main] ERROR cs486.App - Text '2/7/2024 19:06' could not be parsed at index 0
+11:23:15.396 [main] ERROR cs486.App - Text '2/7/2024 20:40' could not be parsed at index 0
+11:23:15.396 [main] ERROR cs486.App - Text '2/7/2024 20:32' could not be parsed at index 0
+11:23:15.396 [main] ERROR cs486.App - Text '2/7/2024 9:36' could not be parsed at index 0
+11:23:15.397 [main] ERROR cs486.App - Text '2/7/2024 12:40' could not be parsed at index 0
+11:23:15.397 [main] ERROR cs486.App - Text '2/7/2024 19:55' could not be parsed at index 0
+11:23:15.397 [main] ERROR cs486.App - Text '2/7/2024 13:59' could not be parsed at index 0
+11:23:15.398 [main] ERROR cs486.App - Text '2/7/2024 3:20' could not be parsed at index 0
+11:23:15.398 [main] ERROR cs486.App - Text '2/7/2024 15:20' could not be parsed at index 0
+11:23:15.398 [main] ERROR cs486.App - Text '2/7/2024 5:01' could not be parsed at index 0
+11:23:15.398 [main] ERROR cs486.App - Text '2/7/2024 13:21' could not be parsed at index 0
+11:23:15.398 [main] ERROR cs486.App - Text '2/7/2024 14:23' could not be parsed at index 0
+11:23:15.400 [main] ERROR cs486.App - Text '2/7/2024 16:03' could not be parsed at index 0
+11:23:15.400 [main] ERROR cs486.App - Text '2/7/2024 2:36' could not be parsed at index 0
+11:23:15.400 [main] ERROR cs486.App - Text '2/7/2024 10:39' could not be parsed at index 0
+11:23:15.400 [main] ERROR cs486.App - Text '2/7/2024 4:26' could not be parsed at index 0
+11:23:15.400 [main] ERROR cs486.App - Text '2/7/2024 4:08' could not be parsed at index 0
+11:23:15.401 [main] ERROR cs486.App - Text '2/7/2024 16:04' could not be parsed at index 0
+11:23:15.401 [main] ERROR cs486.App - Text '2/7/2024 9:37' could not be parsed at index 0
+11:23:15.401 [main] ERROR cs486.App - Text '2/7/2024 23:05' could not be parsed at index 0
+11:23:15.401 [main] ERROR cs486.App - Text '2/7/2024 6:08' could not be parsed at index 0
+11:23:15.401 [main] ERROR cs486.App - Text '2/7/2024 3:10' could not be parsed at index 0
+11:23:15.401 [main] ERROR cs486.App - Text '2/7/2024 9:46' could not be parsed at index 0
+11:23:15.402 [main] ERROR cs486.App - Text '2/7/2024 3:29' could not be parsed at index 0
+11:23:15.402 [main] ERROR cs486.App - Text '2/7/2024 10:35' could not be parsed at index 0
+11:23:15.402 [main] ERROR cs486.App - Text '2/7/2024 6:02' could not be parsed at index 0
+11:23:15.402 [main] ERROR cs486.App - Text '2/7/2024 17:45' could not be parsed at index 0
+11:23:15.402 [main] ERROR cs486.App - Text '2/7/2024 1:56' could not be parsed at index 0
+11:23:15.402 [main] ERROR cs486.App - Text '2/7/2024 16:32' could not be parsed at index 0
+11:23:15.402 [main] ERROR cs486.App - Text '2/7/2024 7:24' could not be parsed at index 0
+11:23:15.402 [main] ERROR cs486.App - Text '2/7/2024 4:43' could not be parsed at index 0
+11:23:15.404 [main] ERROR cs486.App - Text '2/7/2024 19:43' could not be parsed at index 0
+11:23:15.404 [main] ERROR cs486.App - Text '2/7/2024 23:25' could not be parsed at index 0
+11:23:15.404 [main] ERROR cs486.App - Text '2/7/2024 17:17' could not be parsed at index 0
+11:23:15.404 [main] ERROR cs486.App - Text '2/7/2024 4:03' could not be parsed at index 0
+11:23:15.404 [main] ERROR cs486.App - Text '2/7/2024 20:38' could not be parsed at index 0
+11:23:15.405 [main] ERROR cs486.App - Text '2/7/2024 22:36' could not be parsed at index 0
+11:23:15.405 [main] ERROR cs486.App - Text '2/7/2024 9:20' could not be parsed at index 0
+11:23:15.405 [main] ERROR cs486.App - Text '2/7/2024 16:32' could not be parsed at index 0
+11:23:15.405 [main] ERROR cs486.App - Text '2/7/2024 11:39' could not be parsed at index 0
+11:23:15.405 [main] ERROR cs486.App - Text '2/7/2024 22:21' could not be parsed at index 0
+11:23:15.405 [main] ERROR cs486.App - Text '2/7/2024 6:23' could not be parsed at index 0
+11:23:15.406 [main] ERROR cs486.App - Text '2/7/2024 10:34' could not be parsed at index 0
+11:23:15.406 [main] ERROR cs486.App - Text '2/7/2024 17:17' could not be parsed at index 0
+11:23:15.406 [main] ERROR cs486.App - Text '2/7/2024 13:02' could not be parsed at index 0
+11:23:15.406 [main] ERROR cs486.App - Text '2/7/2024 6:20' could not be parsed at index 0
+11:23:15.406 [main] ERROR cs486.App - Text '2/7/2024 20:11' could not be parsed at index 0
+11:23:15.406 [main] ERROR cs486.App - Text '2/7/2024 16:09' could not be parsed at index 0
+11:23:15.406 [main] ERROR cs486.App - Text '2/7/2024 6:27' could not be parsed at index 0
+11:23:15.407 [main] ERROR cs486.App - Text '2/7/2024 13:34' could not be parsed at index 0
+11:23:15.407 [main] ERROR cs486.App - Text '2/7/2024 8:42' could not be parsed at index 0
+11:23:15.407 [main] ERROR cs486.App - Text '2/7/2024 1:01' could not be parsed at index 0
+11:23:15.407 [main] ERROR cs486.App - Text '2/7/2024 12:58' could not be parsed at index 0
+11:23:15.407 [main] ERROR cs486.App - Text '2/7/2024 23:20' could not be parsed at index 0
+11:23:15.407 [main] ERROR cs486.App - Text '2/7/2024 22:37' could not be parsed at index 0
+11:23:15.409 [main] ERROR cs486.App - Text '2/7/2024 7:44' could not be parsed at index 0
+11:23:15.409 [main] ERROR cs486.App - Text '2/7/2024 17:52' could not be parsed at index 0
+11:23:15.409 [main] ERROR cs486.App - Text '2/7/2024 9:35' could not be parsed at index 0
+11:23:15.409 [main] ERROR cs486.App - Text '2/7/2024 10:11' could not be parsed at index 0
+11:23:15.409 [main] ERROR cs486.App - Text '2/7/2024 18:42' could not be parsed at index 0
+11:23:15.409 [main] ERROR cs486.App - Text '2/7/2024 0:30' could not be parsed at index 0
+11:23:15.409 [main] ERROR cs486.App - Text '2/7/2024 18:33' could not be parsed at index 0
+11:23:15.410 [main] ERROR cs486.App - Text '2/7/2024 1:10' could not be parsed at index 0
+11:23:15.410 [main] ERROR cs486.App - Text '2/7/2024 18:07' could not be parsed at index 0
+11:23:15.410 [main] ERROR cs486.App - Text '2/7/2024 12:05' could not be parsed at index 0
+11:23:15.410 [main] ERROR cs486.App - Text '2/7/2024 10:10' could not be parsed at index 0
+11:23:15.410 [main] ERROR cs486.App - Text '2/7/2024 23:18' could not be parsed at index 0
+11:23:15.411 [main] ERROR cs486.App - Text '2/7/2024 11:23' could not be parsed at index 0
+11:23:15.411 [main] ERROR cs486.App - Text '2/7/2024 0:33' could not be parsed at index 0
+11:23:15.411 [main] ERROR cs486.App - Text '2/7/2024 20:51' could not be parsed at index 0
+11:23:15.411 [main] ERROR cs486.App - Text '2/7/2024 9:11' could not be parsed at index 0
+11:23:15.411 [main] ERROR cs486.App - Text '2/7/2024 2:12' could not be parsed at index 0
+11:23:15.411 [main] ERROR cs486.App - Text '2/7/2024 19:42' could not be parsed at index 0
+11:23:15.412 [main] ERROR cs486.App - Text '2/7/2024 18:28' could not be parsed at index 0
+11:23:15.412 [main] ERROR cs486.App - Text '2/7/2024 1:06' could not be parsed at index 0
+11:23:15.412 [main] ERROR cs486.App - Text '2/7/2024 14:40' could not be parsed at index 0
+11:23:15.412 [main] ERROR cs486.App - Text '2/7/2024 19:42' could not be parsed at index 0
+11:23:15.412 [main] ERROR cs486.App - Text '2/7/2024 11:43' could not be parsed at index 0
+11:23:15.412 [main] ERROR cs486.App - Text '2/7/2024 10:26' could not be parsed at index 0
+11:23:15.413 [main] ERROR cs486.App - Text '2/7/2024 21:08' could not be parsed at index 0
+11:23:15.413 [main] ERROR cs486.App - Text '2/7/2024 3:06' could not be parsed at index 0
+11:23:15.413 [main] ERROR cs486.App - Text '2/7/2024 7:56' could not be parsed at index 0
+11:23:15.413 [main] ERROR cs486.App - Text '2/7/2024 19:27' could not be parsed at index 0
+11:23:15.413 [main] ERROR cs486.App - Text '2/7/2024 21:21' could not be parsed at index 0
+11:23:15.413 [main] ERROR cs486.App - Text '2/7/2024 12:10' could not be parsed at index 0
+11:23:15.413 [main] ERROR cs486.App - Text '2/7/2024 10:14' could not be parsed at index 0
+11:23:15.413 [main] ERROR cs486.App - Text '2/7/2024 17:58' could not be parsed at index 0
+11:23:15.413 [main] ERROR cs486.App - Text '2/7/2024 12:03' could not be parsed at index 0
+11:23:15.414 [main] ERROR cs486.App - Text '2/7/2024 15:54' could not be parsed at index 0
+11:23:15.420 [main] INFO  cs486.App - Application finished
+11:23:49.084 [main] INFO  cs486.App - Starting application
+11:26:06.803 [main] ERROR cs486.App - Text 'Date' could not be parsed at index 0
+11:29:54.267 [main] INFO  cs486.App - Starting application
+11:29:54.286 [main] ERROR cs486.App - Text 'Date' could not be parsed at index 0
+11:29:54.287 [main] ERROR cs486.App - Text '2/7/2024 4:17' could not be parsed at index 9
+11:29:54.288 [main] ERROR cs486.App - Text '2/7/2024 3:31' could not be parsed at index 9
+11:29:54.291 [main] ERROR cs486.App - Text '2/7/2024 8:27' could not be parsed at index 9
+11:29:54.291 [main] ERROR cs486.App - Text '2/7/2024 9:10' could not be parsed at index 9
+11:29:54.292 [main] ERROR cs486.App - Text '2/7/2024 5:40' could not be parsed at index 9
+11:29:54.292 [main] ERROR cs486.App - Text '2/7/2024 2:27' could not be parsed at index 9
+11:29:54.293 [main] ERROR cs486.App - Text '2/7/2024 3:04' could not be parsed at index 9
+11:29:54.293 [main] ERROR cs486.App - Text '2/7/2024 5:25' could not be parsed at index 9
+11:29:54.294 [main] ERROR cs486.App - Text '2/7/2024 5:43' could not be parsed at index 9
+11:29:54.294 [main] ERROR cs486.App - Text '2/7/2024 2:14' could not be parsed at index 9
+11:29:54.295 [main] ERROR cs486.App - Text '2/7/2024 7:06' could not be parsed at index 9
+11:29:54.295 [main] ERROR cs486.App - Text '2/7/2024 3:36' could not be parsed at index 9
+11:29:54.296 [main] ERROR cs486.App - Text '2/7/2024 0:25' could not be parsed at index 9
+11:29:54.296 [main] ERROR cs486.App - Text '2/7/2024 3:48' could not be parsed at index 9
+11:29:54.296 [main] ERROR cs486.App - Text '2/7/2024 0:33' could not be parsed at index 9
+11:29:54.296 [main] ERROR cs486.App - Text '2/7/2024 1:34' could not be parsed at index 9
+11:29:54.297 [main] ERROR cs486.App - Text '2/7/2024 4:11' could not be parsed at index 9
+11:29:54.297 [main] ERROR cs486.App - Text '2/7/2024 6:23' could not be parsed at index 9
+11:29:54.298 [main] ERROR cs486.App - Text '2/7/2024 6:19' could not be parsed at index 9
+11:29:54.298 [main] ERROR cs486.App - Text '2/7/2024 4:53' could not be parsed at index 9
+11:29:54.299 [main] ERROR cs486.App - Text '2/7/2024 6:20' could not be parsed at index 9
+11:29:54.299 [main] ERROR cs486.App - Text '2/7/2024 9:24' could not be parsed at index 9
+11:29:54.300 [main] ERROR cs486.App - Text '2/7/2024 7:40' could not be parsed at index 9
+11:29:54.300 [main] ERROR cs486.App - Text '2/7/2024 2:36' could not be parsed at index 9
+11:29:54.301 [main] ERROR cs486.App - Text '2/7/2024 9:57' could not be parsed at index 9
+11:29:54.301 [main] ERROR cs486.App - Text '2/7/2024 5:41' could not be parsed at index 9
+11:29:54.302 [main] ERROR cs486.App - Text '2/7/2024 7:42' could not be parsed at index 9
+11:29:54.302 [main] ERROR cs486.App - Text '2/7/2024 4:48' could not be parsed at index 9
+11:29:54.304 [main] ERROR cs486.App - Text '2/7/2024 6:51' could not be parsed at index 9
+11:29:54.304 [main] ERROR cs486.App - Text '2/7/2024 0:19' could not be parsed at index 9
+11:29:54.306 [main] ERROR cs486.App - Text '2/7/2024 8:50' could not be parsed at index 9
+11:29:54.306 [main] ERROR cs486.App - Text '2/7/2024 1:58' could not be parsed at index 9
+11:29:54.307 [main] ERROR cs486.App - Text '2/7/2024 7:40' could not be parsed at index 9
+11:29:54.307 [main] ERROR cs486.App - Text '2/7/2024 2:07' could not be parsed at index 9
+11:29:54.308 [main] ERROR cs486.App - Text '2/7/2024 9:29' could not be parsed at index 9
+11:29:54.308 [main] ERROR cs486.App - Text '2/7/2024 5:31' could not be parsed at index 9
+11:29:54.309 [main] ERROR cs486.App - Text '2/7/2024 9:36' could not be parsed at index 9
+11:29:54.310 [main] ERROR cs486.App - Text '2/7/2024 3:20' could not be parsed at index 9
+11:29:54.310 [main] ERROR cs486.App - Text '2/7/2024 5:01' could not be parsed at index 9
+11:29:54.311 [main] ERROR cs486.App - Text '2/7/2024 2:36' could not be parsed at index 9
+11:29:54.311 [main] ERROR cs486.App - Text '2/7/2024 4:26' could not be parsed at index 9
+11:29:54.311 [main] ERROR cs486.App - Text '2/7/2024 4:08' could not be parsed at index 9
+11:29:54.312 [main] ERROR cs486.App - Text '2/7/2024 9:37' could not be parsed at index 9
+11:29:54.313 [main] ERROR cs486.App - Text '2/7/2024 6:08' could not be parsed at index 9
+11:29:54.315 [main] ERROR cs486.App - Text '2/7/2024 3:10' could not be parsed at index 9
+11:29:54.316 [main] ERROR cs486.App - Text '2/7/2024 9:46' could not be parsed at index 9
+11:29:54.316 [main] ERROR cs486.App - Text '2/7/2024 3:29' could not be parsed at index 9
+11:29:54.317 [main] ERROR cs486.App - Text '2/7/2024 6:02' could not be parsed at index 9
+11:29:54.319 [main] ERROR cs486.App - Text '2/7/2024 1:56' could not be parsed at index 9
+11:29:54.319 [main] ERROR cs486.App - Text '2/7/2024 7:24' could not be parsed at index 9
+11:29:54.320 [main] ERROR cs486.App - Text '2/7/2024 4:43' could not be parsed at index 9
+11:29:54.321 [main] ERROR cs486.App - Text '2/7/2024 4:03' could not be parsed at index 9
+11:29:54.321 [main] ERROR cs486.App - Text '2/7/2024 9:20' could not be parsed at index 9
+11:29:54.321 [main] ERROR cs486.App - Text '2/7/2024 6:23' could not be parsed at index 9
+11:29:54.322 [main] ERROR cs486.App - Text '2/7/2024 6:20' could not be parsed at index 9
+11:29:54.322 [main] ERROR cs486.App - Text '2/7/2024 6:27' could not be parsed at index 9
+11:29:54.322 [main] ERROR cs486.App - Text '2/7/2024 8:42' could not be parsed at index 9
+11:29:54.322 [main] ERROR cs486.App - Text '2/7/2024 1:01' could not be parsed at index 9
+11:29:54.323 [main] ERROR cs486.App - Text '2/7/2024 7:44' could not be parsed at index 9
+11:29:54.323 [main] ERROR cs486.App - Text '2/7/2024 9:35' could not be parsed at index 9
+11:29:54.323 [main] ERROR cs486.App - Text '2/7/2024 0:30' could not be parsed at index 9
+11:29:54.324 [main] ERROR cs486.App - Text '2/7/2024 1:10' could not be parsed at index 9
+11:29:54.324 [main] ERROR cs486.App - Text '2/7/2024 0:33' could not be parsed at index 9
+11:29:54.324 [main] ERROR cs486.App - Text '2/7/2024 9:11' could not be parsed at index 9
+11:29:54.326 [main] ERROR cs486.App - Text '2/7/2024 2:12' could not be parsed at index 9
+11:29:54.326 [main] ERROR cs486.App - Text '2/7/2024 1:06' could not be parsed at index 9
+11:29:54.326 [main] ERROR cs486.App - Text '2/7/2024 3:06' could not be parsed at index 9
+11:29:54.326 [main] ERROR cs486.App - Text '2/7/2024 7:56' could not be parsed at index 9
+11:29:54.335 [main] INFO  cs486.App - Application finished
+11:30:27.386 [main] INFO  cs486.App - Starting application
+11:30:27.406 [main] ERROR cs486.App - Text 'Date' could not be parsed at index 0
+11:30:27.407 [main] ERROR cs486.App - Text '2/7/2024 4:17' could not be parsed at index 9
+11:30:27.407 [main] ERROR cs486.App - Text '2/7/2024 3:31' could not be parsed at index 9
+11:30:27.410 [main] ERROR cs486.App - Text '2/7/2024 8:27' could not be parsed at index 9
+11:30:27.411 [main] ERROR cs486.App - Text '2/7/2024 9:10' could not be parsed at index 9
+11:30:27.411 [main] ERROR cs486.App - Text '2/7/2024 5:40' could not be parsed at index 9
+11:30:27.411 [main] ERROR cs486.App - Text '2/7/2024 2:27' could not be parsed at index 9
+11:30:27.412 [main] ERROR cs486.App - Text '2/7/2024 3:04' could not be parsed at index 9
+11:30:27.412 [main] ERROR cs486.App - Text '2/7/2024 5:25' could not be parsed at index 9
+11:30:27.413 [main] ERROR cs486.App - Text '2/7/2024 5:43' could not be parsed at index 9
+11:30:27.413 [main] ERROR cs486.App - Text '2/7/2024 2:14' could not be parsed at index 9
+11:30:27.413 [main] ERROR cs486.App - Text '2/7/2024 7:06' could not be parsed at index 9
+11:30:27.415 [main] ERROR cs486.App - Text '2/7/2024 3:36' could not be parsed at index 9
+11:30:27.415 [main] ERROR cs486.App - Text '2/7/2024 0:25' could not be parsed at index 9
+11:30:27.416 [main] ERROR cs486.App - Text '2/7/2024 3:48' could not be parsed at index 9
+11:30:27.416 [main] ERROR cs486.App - Text '2/7/2024 0:33' could not be parsed at index 9
+11:30:27.416 [main] ERROR cs486.App - Text '2/7/2024 1:34' could not be parsed at index 9
+11:30:27.417 [main] ERROR cs486.App - Text '2/7/2024 4:11' could not be parsed at index 9
+11:30:27.417 [main] ERROR cs486.App - Text '2/7/2024 6:23' could not be parsed at index 9
+11:30:27.418 [main] ERROR cs486.App - Text '2/7/2024 6:19' could not be parsed at index 9
+11:30:27.418 [main] ERROR cs486.App - Text '2/7/2024 4:53' could not be parsed at index 9
+11:30:27.418 [main] ERROR cs486.App - Text '2/7/2024 6:20' could not be parsed at index 9
+11:30:27.420 [main] ERROR cs486.App - Text '2/7/2024 9:24' could not be parsed at index 9
+11:30:27.421 [main] ERROR cs486.App - Text '2/7/2024 7:40' could not be parsed at index 9
+11:30:27.422 [main] ERROR cs486.App - Text '2/7/2024 2:36' could not be parsed at index 9
+11:30:27.422 [main] ERROR cs486.App - Text '2/7/2024 9:57' could not be parsed at index 9
+11:30:27.423 [main] ERROR cs486.App - Text '2/7/2024 5:41' could not be parsed at index 9
+11:30:27.423 [main] ERROR cs486.App - Text '2/7/2024 7:42' could not be parsed at index 9
+11:30:27.423 [main] ERROR cs486.App - Text '2/7/2024 4:48' could not be parsed at index 9
+11:30:27.424 [main] ERROR cs486.App - Text '2/7/2024 6:51' could not be parsed at index 9
+11:30:27.424 [main] ERROR cs486.App - Text '2/7/2024 0:19' could not be parsed at index 9
+11:30:27.425 [main] ERROR cs486.App - Text '2/7/2024 8:50' could not be parsed at index 9
+11:30:27.425 [main] ERROR cs486.App - Text '2/7/2024 1:58' could not be parsed at index 9
+11:30:27.427 [main] ERROR cs486.App - Text '2/7/2024 7:40' could not be parsed at index 9
+11:30:27.427 [main] ERROR cs486.App - Text '2/7/2024 2:07' could not be parsed at index 9
+11:30:27.427 [main] ERROR cs486.App - Text '2/7/2024 9:29' could not be parsed at index 9
+11:30:27.428 [main] ERROR cs486.App - Text '2/7/2024 5:31' could not be parsed at index 9
+11:30:27.428 [main] ERROR cs486.App - Text '2/7/2024 9:36' could not be parsed at index 9
+11:30:27.429 [main] ERROR cs486.App - Text '2/7/2024 3:20' could not be parsed at index 9
+11:30:27.429 [main] ERROR cs486.App - Text '2/7/2024 5:01' could not be parsed at index 9
+11:30:27.430 [main] ERROR cs486.App - Text '2/7/2024 2:36' could not be parsed at index 9
+11:30:27.430 [main] ERROR cs486.App - Text '2/7/2024 4:26' could not be parsed at index 9
+11:30:27.430 [main] ERROR cs486.App - Text '2/7/2024 4:08' could not be parsed at index 9
+11:30:27.431 [main] ERROR cs486.App - Text '2/7/2024 9:37' could not be parsed at index 9
+11:30:27.431 [main] ERROR cs486.App - Text '2/7/2024 6:08' could not be parsed at index 9
+11:30:27.431 [main] ERROR cs486.App - Text '2/7/2024 3:10' could not be parsed at index 9
+11:30:27.433 [main] ERROR cs486.App - Text '2/7/2024 9:46' could not be parsed at index 9
+11:30:27.433 [main] ERROR cs486.App - Text '2/7/2024 3:29' could not be parsed at index 9
+11:30:27.433 [main] ERROR cs486.App - Text '2/7/2024 6:02' could not be parsed at index 9
+11:30:27.433 [main] ERROR cs486.App - Text '2/7/2024 1:56' could not be parsed at index 9
+11:30:27.434 [main] ERROR cs486.App - Text '2/7/2024 7:24' could not be parsed at index 9
+11:30:27.434 [main] ERROR cs486.App - Text '2/7/2024 4:43' could not be parsed at index 9
+11:30:27.434 [main] ERROR cs486.App - Text '2/7/2024 4:03' could not be parsed at index 9
+11:30:27.435 [main] ERROR cs486.App - Text '2/7/2024 9:20' could not be parsed at index 9
+11:30:27.435 [main] ERROR cs486.App - Text '2/7/2024 6:23' could not be parsed at index 9
+11:30:27.436 [main] ERROR cs486.App - Text '2/7/2024 6:20' could not be parsed at index 9
+11:30:27.437 [main] ERROR cs486.App - Text '2/7/2024 6:27' could not be parsed at index 9
+11:30:27.437 [main] ERROR cs486.App - Text '2/7/2024 8:42' could not be parsed at index 9
+11:30:27.438 [main] ERROR cs486.App - Text '2/7/2024 1:01' could not be parsed at index 9
+11:30:27.438 [main] ERROR cs486.App - Text '2/7/2024 7:44' could not be parsed at index 9
+11:30:27.440 [main] ERROR cs486.App - Text '2/7/2024 9:35' could not be parsed at index 9
+11:30:27.440 [main] ERROR cs486.App - Text '2/7/2024 0:30' could not be parsed at index 9
+11:30:27.440 [main] ERROR cs486.App - Text '2/7/2024 1:10' could not be parsed at index 9
+11:30:27.441 [main] ERROR cs486.App - Text '2/7/2024 0:33' could not be parsed at index 9
+11:30:27.441 [main] ERROR cs486.App - Text '2/7/2024 9:11' could not be parsed at index 9
+11:30:27.441 [main] ERROR cs486.App - Text '2/7/2024 2:12' could not be parsed at index 9
+11:30:27.442 [main] ERROR cs486.App - Text '2/7/2024 1:06' could not be parsed at index 9
+11:30:27.442 [main] ERROR cs486.App - Text '2/7/2024 3:06' could not be parsed at index 9
+11:30:27.443 [main] ERROR cs486.App - Text '2/7/2024 7:56' could not be parsed at index 9
+11:30:27.449 [main] INFO  cs486.App - Application finished
+11:32:56.594 [main] INFO  cs486.App - Starting application
+11:32:56.619 [main] ERROR cs486.App - Text 'Date' could not be parsed at index 0
+11:32:56.625 [main] ERROR cs486.App - Text 'Date' could not be parsed at index 0
+11:32:56.640 [main] INFO  cs486.App - Application finished
+11:33:08.871 [main] INFO  cs486.App - Starting application
+11:33:08.890 [main] ERROR cs486.App - Text 'Date' could not be parsed at index 0
+11:33:08.906 [main] INFO  cs486.App - Application finished
+11:38:25.983 [main] INFO  cs486.App - Starting application
+11:38:26.008 [main] ERROR cs486.App - Text 'Date' could not be parsed at index 0
+11:38:26.015 [main] ERROR cs486.App - Text 'Date' could not be parsed at index 0
+11:38:26.030 [main] INFO  cs486.App - Application finished
+11:44:39.105 [main] INFO  cs486.App - Starting application
+11:44:39.132 [main] ERROR cs486.App - Text 'Date' could not be parsed at index 0
+11:44:39.141 [main] ERROR cs486.App - Text 'Date' could not be parsed at index 0
+11:44:39.157 [main] INFO  cs486.App - Application finished
+11:48:06.760 [main] INFO  cs486.App - Starting application
+11:48:06.782 [main] ERROR cs486.App - Text 'Date' could not be parsed at index 0
+11:48:06.791 [main] ERROR cs486.App - Text 'Date' could not be parsed at index 0
+11:48:06.802 [main] INFO  cs486.App - Application finished
+14:59:33.694 [main] INFO  cs486.App - Starting application
+14:59:33.711 [main] ERROR cs486.App - Text 'Date' could not be parsed at index 0
+14:59:33.711 [main] ERROR cs486.App - Text 'Date' could not be parsed at index 0
+14:59:33.730 [main] INFO  cs486.App - Application finished
+15:05:55.740 [main] INFO  cs486.App - Starting application
+15:05:55.750 [main] ERROR cs486.App - Text 'Date' could not be parsed at index 0
+15:05:55.750 [main] ERROR cs486.App - Text 'Date' could not be parsed at index 0
+15:05:55.774 [main] INFO  cs486.App - Application finished
+15:08:01.680 [main] INFO  cs486.App - Starting application
+15:08:51.187 [main] ERROR cs486.App - Text 'Date' could not be parsed at index 0
+15:08:51.512 [main] ERROR cs486.App - Text 'Date' could not be parsed at index 0
+15:12:18.256 [main] INFO  cs486.App - Application finished
+15:25:04.205 [main] INFO  cs486.App - Starting application
+15:25:04.220 [main] ERROR cs486.App - Text 'Date' could not be parsed at index 0
+15:25:04.220 [main] ERROR cs486.App - Text 'Date' could not be parsed at index 0
+15:25:04.239 [main] INFO  cs486.App - Application finished
+08:17:54.447 [main] INFO  cs486.App - Starting application
+08:17:54.468 [main] ERROR cs486.App - Text 'Date' could not be parsed at index 0
+08:17:54.468 [main] ERROR cs486.App - Text 'Date' could not be parsed at index 0
+08:17:54.491 [main] INFO  cs486.App - Application finished
+08:37:30.505 [main] INFO  cs486.App3 - Starting application
+08:37:30.520 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+08:37:30.521 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+08:37:30.550 [main] INFO  cs486.App3 - Application finished
+08:46:57.153 [main] INFO  cs486.App3 - Starting application
+08:46:57.169 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+08:46:57.169 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+08:46:57.198 [main] INFO  cs486.App3 - Application finished
+07:50:28.194 [main] INFO  cs486.App3 - Starting application
+07:50:28.215 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+07:50:28.216 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+07:50:28.261 [main] INFO  cs486.App3 - Application finished
+07:55:28.704 [main] INFO  cs486.App3 - Starting application
+07:55:28.743 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+07:55:28.745 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+07:55:28.832 [main] INFO  cs486.App3 - Application finished
+07:57:05.783 [main] INFO  cs486.App3 - Starting application
+07:57:05.812 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+07:57:05.812 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+07:57:05.878 [main] INFO  cs486.App3 - Application finished
+07:15:34.309 [main] INFO  cs486.App3 - Starting application
+07:15:34.333 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+07:15:34.334 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+07:15:34.376 [main] INFO  cs486.App3 - Application finished
+07:17:33.018 [main] INFO  cs486.App3 - Starting application
+07:17:33.042 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+07:17:33.042 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+07:17:33.082 [main] INFO  cs486.App3 - Application finished
+07:22:03.868 [main] INFO  cs486.App3 - Starting application
+07:22:03.901 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+07:22:03.901 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+07:22:03.901 [main] ERROR cs486.App3 - Error generating attendance sheets: 
+java.util.UnknownFormatConversionException: Conversion = '.'
+	at java.base/java.util.Formatter.parse(Formatter.java:2750) ~[?:?]
+	at java.base/java.util.Formatter.format(Formatter.java:2671) ~[?:?]
+	at java.base/java.util.Formatter.format(Formatter.java:2625) ~[?:?]
+	at java.base/java.lang.String.format(String.java:4143) ~[?:?]
+	at cs486.App3.classifyAttendance(App3.java:132) ~[classes/:?]
+	at cs486.App3.generateAttendanceSheets(App3.java:65) ~[classes/:?]
+	at cs486.App3.main(App3.java:45) [classes/:?]
+07:22:03.931 [main] INFO  cs486.App3 - Application finished
+07:23:31.495 [main] INFO  cs486.App3 - Starting application
+07:23:31.516 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+07:23:31.518 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+07:23:31.565 [main] INFO  cs486.App3 - Application finished
+07:24:52.191 [main] INFO  cs486.App3 - Starting application
+07:24:52.210 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+07:24:52.212 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+07:24:52.263 [main] INFO  cs486.App3 - Application finished
+07:36:15.405 [main] INFO  cs486.App3 - Starting application
+07:36:15.426 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+07:36:15.428 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+07:36:15.486 [main] INFO  cs486.App3 - Application finished
+07:50:47.137 [main] INFO  cs486.App3 - Starting application
+07:50:47.178 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+07:50:47.179 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+07:50:47.274 [main] INFO  cs486.App3 - Application finished
+07:53:32.159 [main] INFO  cs486.App3 - Starting application
+07:53:32.180 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+07:53:32.180 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+07:53:32.229 [main] INFO  cs486.App3 - Application finished
+08:00:04.790 [main] INFO  cs486.App3 - Starting application
+08:00:04.823 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+08:00:04.823 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+08:00:04.916 [main] INFO  cs486.App3 - Application finished
+09:30:43.747 [main] INFO  cs486.App3 - Starting application
+09:30:43.774 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+09:30:43.775 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+09:30:43.828 [main] INFO  cs486.App3 - Application finished
+09:33:26.701 [main] INFO  cs486.App3 - Starting application
+09:33:26.726 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+09:33:26.726 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+09:33:26.773 [main] INFO  cs486.App3 - Application finished
+08:22:05.569 [main] INFO  cs486.App3 - Starting application
+08:22:05.585 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+08:22:05.586 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+08:22:05.623 [main] INFO  cs486.App3 - Application finished
+08:25:22.394 [main] INFO  cs486.App3 - Starting application
+08:25:22.410 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+08:25:22.410 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+08:25:22.444 [main] INFO  cs486.App3 - Application finished
+13:14:45.216 [main] INFO  cs486.App3 - Starting application
+13:14:45.239 [main] INFO  cs486.App3 - Application finished
+13:15:41.748 [main] INFO  cs486.App3 - Starting application
+13:15:41.763 [main] INFO  cs486.App3 - Application finished
+13:17:48.448 [main] INFO  cs486.App3 - Starting application
+13:17:48.460 [main] INFO  cs486.App3 - Application finished
+13:20:49.480 [main] INFO  cs486.App3 - Starting application
+13:20:49.494 [main] INFO  cs486.App3 - Application finished
+13:33:24.077 [main] INFO  cs486.App3 - Starting application
+13:33:24.092 [main] INFO  cs486.App3 - Application finished
+13:41:32.855 [main] INFO  cs486.App3 - Starting application
+13:41:32.868 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+13:41:32.890 [main] INFO  cs486.App3 - Application finished
+13:47:09.881 [main] INFO  cs486.App3 - Starting application
+13:47:09.894 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+13:47:09.920 [main] INFO  cs486.App3 - Application finished
+13:49:56.483 [main] INFO  cs486.App3 - Starting application
+13:49:56.496 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+13:49:56.517 [main] INFO  cs486.App3 - Application finished
+13:51:10.133 [main] INFO  cs486.App3 - Starting application
+13:51:10.146 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+13:51:10.172 [main] INFO  cs486.App3 - Application finished
+13:53:15.550 [main] INFO  cs486.App3 - Starting application
+13:53:15.566 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+13:53:15.591 [main] INFO  cs486.App3 - Application finished
+13:54:28.539 [main] INFO  cs486.App3 - Starting application
+13:54:28.551 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+13:54:28.574 [main] INFO  cs486.App3 - Application finished
+13:58:28.578 [main] INFO  cs486.App3 - Starting application
+13:58:28.591 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+13:58:28.615 [main] INFO  cs486.App3 - Application finished
+13:59:28.129 [main] INFO  cs486.App3 - Starting application
+13:59:28.144 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+13:59:28.169 [main] INFO  cs486.App3 - Application finished
+14:02:52.904 [main] INFO  cs486.App3 - Starting application
+14:02:52.935 [main] ERROR cs486.App3 - Error generating attendance sheets: 
+com.opencsv.exceptions.CsvMalformedLineException: Unterminated quoted field at end of CSV line. Beginning of lost text: [[¤"[xªDËWR’i±Zä¶Ï?&¤8§i/CÓXƒ·Á¼vèY^–åµÄ£¯±¾ˆ'C19®zþ_Ó:˜??žvÇ˜?µú£³8ÿRÿ°&
+
+wƒNÉySeº-š×d...]
+	at com.opencsv.CSVReader.primeNextRecord(CSVReader.java:245) ~[opencsv-5.6.jar:?]
+	at com.opencsv.CSVReader.flexibleRead(CSVReader.java:598) ~[opencsv-5.6.jar:?]
+	at com.opencsv.CSVReader.readNext(CSVReader.java:204) ~[opencsv-5.6.jar:?]
+	at com.opencsv.CSVReader.readAll(CSVReader.java:186) ~[opencsv-5.6.jar:?]
+	at cs486.App3.readCsv(App3.java:297) ~[classes/:?]
+	at cs486.App3.generatesqlattendancescript(App3.java:80) ~[classes/:?]
+	at cs486.App3.main(App3.java:50) [classes/:?]
+14:02:52.944 [main] INFO  cs486.App3 - Application finished
+14:03:35.148 [main] INFO  cs486.App3 - Starting application
+14:03:35.182 [main] ERROR cs486.App3 - Error generating attendance sheets: 
+com.opencsv.exceptions.CsvMalformedLineException: Unterminated quoted field at end of CSV line. Beginning of lost text: [[¤"[xªDËWR’i±Zä¶Ï?&¤8§i/CÓXƒ·Á¼vèY^–åµÄ£¯±¾ˆ'C19®zþ_Ó:˜??žvÇ˜?µú£³8ÿRÿ°&
+
+wƒNÉySeº-š×d...]
+	at com.opencsv.CSVReader.primeNextRecord(CSVReader.java:245) ~[opencsv-5.6.jar:?]
+	at com.opencsv.CSVReader.flexibleRead(CSVReader.java:598) ~[opencsv-5.6.jar:?]
+	at com.opencsv.CSVReader.readNext(CSVReader.java:204) ~[opencsv-5.6.jar:?]
+	at com.opencsv.CSVReader.readAll(CSVReader.java:186) ~[opencsv-5.6.jar:?]
+	at cs486.App3.readCsv(App3.java:297) ~[classes/:?]
+	at cs486.App3.generatesqlattendancescript(App3.java:80) ~[classes/:?]
+	at cs486.App3.main(App3.java:50) [classes/:?]
+14:03:35.196 [main] INFO  cs486.App3 - Application finished
+14:06:29.478 [main] INFO  cs486.App3 - Starting application
+14:06:29.493 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+14:06:29.517 [main] INFO  cs486.App3 - Application finished
+14:07:34.637 [main] INFO  cs486.App3 - Starting application
+14:07:34.650 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+14:07:34.676 [main] INFO  cs486.App3 - Application finished
+16:24:27.598 [main] INFO  cs486.App3 - Starting application
+16:24:27.610 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+16:24:27.628 [main] INFO  cs486.App3 - Application finished
+10:01:37.466 [main] INFO  cs486.App3 - Starting application
+10:01:37.483 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+10:01:37.483 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+10:01:37.548 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+10:01:37.562 [main] INFO  cs486.App3 - Application finished
+08:43:14.748 [main] INFO  cs486.App3 - Starting application
+08:43:14.756 [main] ERROR cs486.App3 - No suitable driver found for jdbc:mysql://localhost:3306/stc2fitforlife
+08:43:14.756 [main] INFO  cs486.App3 - Application finished
+08:45:33.623 [main] INFO  cs486.App3 - Starting application
+08:45:34.221 [main] INFO  cs486.App3 - Application finished
+08:54:11.493 [main] INFO  cs486.App3 - Starting application
+08:54:11.515 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+08:54:11.515 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+08:54:11.582 [main] ERROR cs486.App3 - Error generating attendance sheets: 
+java.time.format.DateTimeParseException: Text 'Date' could not be parsed at index 0
+	at java.base/java.time.format.DateTimeFormatter.parseResolved0(DateTimeFormatter.java:2052) ~[?:?]
+	at java.base/java.time.format.DateTimeFormatter.parse(DateTimeFormatter.java:1954) ~[?:?]
+	at java.base/java.time.LocalDateTime.parse(LocalDateTime.java:494) ~[?:?]
+	at cs486.Utility.getDateasString(Utility.java:36) ~[classes/:?]
+	at cs486.App3.lambda$3(App3.java:135) ~[classes/:?]
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at cs486.App3.generatesqlattendance(App3.java:133) ~[classes/:?]
+	at cs486.App3.generatesqlattendancescript(App3.java:76) ~[classes/:?]
+	at cs486.App3.main(App3.java:44) [classes/:?]
+08:54:11.606 [main] INFO  cs486.App3 - Application finished
+08:56:20.413 [main] INFO  cs486.App3 - Starting application
+08:56:20.434 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+08:56:20.484 [main] INFO  cs486.App3 - Application finished
+08:57:55.060 [main] INFO  cs486.App3 - Starting application
+08:57:55.081 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+08:57:55.534 [main] ERROR cs486.App3 - Data truncation: Incorrect datetime value: '+999999999-12-31 23:59:59' for column 'Date' at row 1
+08:57:58.888 [main] INFO  cs486.App3 - Application finished
+09:01:58.515 [main] INFO  cs486.App3 - Starting application
+09:01:58.546 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+09:01:58.546 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+09:01:58.617 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+09:01:58.634 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+09:01:59.011 [main] ERROR cs486.App3 - Data truncation: Incorrect datetime value: '+999999999-12-31 23:59:59' for column 'Date' at row 1
+09:02:02.755 [main] INFO  cs486.App3 - Application finished
+09:10:38.556 [main] INFO  cs486.App3 - Starting application
+09:10:38.592 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+09:10:38.592 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+09:10:38.650 [main] INFO  cs486.App3 - Application finished
+08:17:05.043 [main] INFO  cs486.App3 - Starting application
+08:17:05.064 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+08:17:05.065 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+08:17:05.111 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+08:17:05.125 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+08:17:05.550 [main] ERROR cs486.App3 - Data truncation: Incorrect datetime value: '+999999999-12-31 23:59:59' for column 'Date' at row 1
+08:17:08.735 [main] INFO  cs486.App3 - Application finished
+08:17:53.173 [main] INFO  cs486.App3 - Starting application
+08:17:53.192 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+08:17:53.193 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+08:17:53.241 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+08:17:53.254 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+08:17:53.655 [main] ERROR cs486.App3 - Data truncation: Incorrect datetime value: '+999999999-12-31 23:59:59' for column 'Date' at row 1
+08:17:56.658 [main] INFO  cs486.App3 - Application finished
+08:22:02.077 [main] INFO  cs486.App3 - Starting application
+08:22:02.094 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+08:22:02.094 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+08:22:02.150 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+08:22:02.162 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+08:22:02.502 [main] ERROR cs486.App3 - Data truncation: Incorrect datetime value: '+999999999-12-31 23:59:59' for column 'Date' at row 1
+08:22:05.871 [main] INFO  cs486.App3 - Application finished
+08:56:06.857 [main] INFO  cs486.App3 - Starting application
+08:56:06.875 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+08:56:06.876 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+08:56:06.938 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+08:56:06.951 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+08:56:07.338 [main] ERROR cs486.App3 - Data truncation: Incorrect datetime value: '+999999999-12-31 23:59:59' for column 'Date' at row 1
+08:56:10.901 [main] INFO  cs486.App3 - Application finished
+08:57:44.108 [main] INFO  cs486.App3 - Starting application
+08:57:44.134 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+08:57:44.135 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+08:57:44.197 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+08:57:44.214 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+08:57:44.630 [main] ERROR cs486.App3 - Data truncation: Incorrect datetime value: '+999999999-12-31 23:59:59' for column 'Date' at row 1
+08:57:48.542 [main] INFO  cs486.App3 - Application finished
+09:01:42.579 [main] INFO  cs486.App3 - Starting application
+09:01:43.013 [main] INFO  cs486.App3 - Application finished
+09:12:12.622 [main] INFO  cs486.App3 - Starting application
+09:12:13.092 [main] ERROR cs486.App3 - Error generating attendance sheets: 
+java.io.FileNotFoundException: ..\attendance\617280.csv (The process cannot access the file because it is being used by another process)
+	at java.base/java.io.FileOutputStream.open0(Native Method) ~[?:?]
+	at java.base/java.io.FileOutputStream.open(FileOutputStream.java:293) ~[?:?]
+	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:235) ~[?:?]
+	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:123) ~[?:?]
+	at java.base/java.io.FileWriter.<init>(FileWriter.java:66) ~[?:?]
+	at cs486.Utility.writeCsv(Utility.java:24) ~[classes/:?]
+	at cs486.DataBaseUtil.generateReport(DataBaseUtil.java:73) ~[classes/:?]
+	at cs486.App3.generateAttendanceReportForStudent(App3.java:279) ~[classes/:?]
+	at cs486.App3.main(App3.java:42) [classes/:?]
+09:12:13.099 [main] INFO  cs486.App3 - Application finished
+09:12:29.722 [main] INFO  cs486.App3 - Starting application
+09:12:30.152 [main] INFO  cs486.App3 - Application finished
+09:14:34.892 [main] INFO  cs486.App3 - Starting application
+09:14:35.286 [main] INFO  cs486.App3 - Application finished
+09:16:38.323 [main] INFO  cs486.App3 - Starting application
+09:16:38.713 [main] INFO  cs486.App3 - Application finished
+10:44:48.973 [main] INFO  cs486.App3 - Starting application
+10:44:49.353 [main] INFO  cs486.App3 - Application finished
+10:51:44.816 [main] INFO  cs486.App3 - Starting application
+10:51:45.191 [main] INFO  cs486.App3 - Application finished
+09:19:49.314 [main] INFO  cs486.App3 - Starting application
+09:19:49.344 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+09:19:49.344 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+09:19:49.412 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+09:19:49.427 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+09:19:49.825 [main] ERROR cs486.App3 - Data truncation: Incorrect datetime value: '+999999999-12-31 23:59:59' for column 'Date' at row 1
+09:19:53.373 [main] INFO  cs486.App3 - Application finished
+09:22:53.524 [main] INFO  cs486.App3 - Starting application
+09:22:53.545 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+09:22:53.545 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+09:22:53.598 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+09:22:53.614 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+09:22:54.030 [main] ERROR cs486.App3 - Data truncation: Incorrect datetime value: '+999999999-12-31 23:59:59' for column 'Date' at row 1
+09:22:57.441 [main] INFO  cs486.App3 - Application finished
+09:47:09.214 [main] INFO  cs486.App3 - Starting application
+09:47:09.623 [main] INFO  cs486.App3 - Application finished
+09:48:18.080 [main] INFO  cs486.App3 - Starting application
+09:48:18.509 [main] INFO  cs486.App3 - Application finished
+09:51:41.257 [main] INFO  cs486.App3 - Starting application
+09:51:41.665 [main] INFO  cs486.App3 - Application finished
+09:52:51.438 [main] INFO  cs486.App3 - Starting application
+09:52:51.926 [main] INFO  cs486.App3 - Application finished
+09:53:22.106 [main] INFO  cs486.App3 - Starting application
+09:53:22.536 [main] INFO  cs486.App3 - Application finished
+09:53:48.785 [main] INFO  cs486.App3 - Starting application
+09:53:49.250 [main] INFO  cs486.App3 - Application finished
+09:54:09.722 [main] INFO  cs486.App3 - Starting application
+09:54:10.173 [main] INFO  cs486.App3 - Application finished
+09:54:39.454 [main] INFO  cs486.App3 - Starting application
+09:54:39.898 [main] INFO  cs486.App3 - Application finished
+09:55:00.964 [main] INFO  cs486.App3 - Starting application
+09:55:01.375 [main] INFO  cs486.App3 - Application finished
+09:55:27.804 [main] INFO  cs486.App3 - Starting application
+09:55:28.224 [main] INFO  cs486.App3 - Application finished
+10:00:17.372 [main] INFO  cs486.App3 - Starting application
+10:00:17.840 [main] INFO  cs486.App3 - Application finished
+11:22:59.746 [main] INFO  cs486.App3 - Starting application
+11:23:00.208 [main] INFO  cs486.App3 - Application finished
+13:22:48.300 [main] INFO  cs486.App3 - Starting application
+13:22:48.325 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+13:22:48.325 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+13:22:48.391 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+13:22:48.408 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+13:22:48.984 [main] ERROR cs486.App3 - Data truncation: Incorrect datetime value: '+999999999-12-31 23:59:59' for column 'Date' at row 1
+09:21:16.969 [main] INFO  cs486.App3 - Starting application
+09:23:23.405 [main] ERROR cs486.App3 - Error generating attendance sheets: 
+com.sun.mail.util.MailConnectException: Couldn't connect to host, port: gmail.com, 25; timeout -1
+	at com.sun.mail.smtp.SMTPTransport.openServer(SMTPTransport.java:2209) ~[javax.mail-1.6.2.jar:1.6.2]
+	at com.sun.mail.smtp.SMTPTransport.protocolConnect(SMTPTransport.java:740) ~[javax.mail-1.6.2.jar:1.6.2]
+	at javax.mail.Service.connect(Service.java:388) ~[javax.mail-1.6.2.jar:1.6.2]
+	at javax.mail.Service.connect(Service.java:246) ~[javax.mail-1.6.2.jar:1.6.2]
+	at javax.mail.Service.connect(Service.java:195) ~[javax.mail-1.6.2.jar:1.6.2]
+	at javax.mail.Transport.send0(Transport.java:254) ~[javax.mail-1.6.2.jar:1.6.2]
+	at javax.mail.Transport.send(Transport.java:124) ~[javax.mail-1.6.2.jar:1.6.2]
+	at cs486.Utility.sendEmails(Utility.java:96) ~[classes/:?]
+	at cs486.App3.sendEmails(App3.java:78) ~[classes/:?]
+	at cs486.App3.main(App3.java:46) [classes/:?]
+Caused by: java.net.ConnectException: Connection timed out: connect
+	at java.base/sun.nio.ch.Net.connect0(Native Method) ~[?:?]
+	at java.base/sun.nio.ch.Net.connect(Net.java:579) ~[?:?]
+	at java.base/sun.nio.ch.Net.connect(Net.java:568) ~[?:?]
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:588) ~[?:?]
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327) ~[?:?]
+	at java.base/java.net.Socket.connect(Socket.java:633) ~[?:?]
+	at java.base/java.net.Socket.connect(Socket.java:583) ~[?:?]
+	at com.sun.mail.util.SocketFetcher.createSocket(SocketFetcher.java:359) ~[javax.mail-1.6.2.jar:1.6.2]
+	at com.sun.mail.util.SocketFetcher.getSocket(SocketFetcher.java:238) ~[javax.mail-1.6.2.jar:1.6.2]
+	at com.sun.mail.smtp.SMTPTransport.openServer(SMTPTransport.java:2175) ~[javax.mail-1.6.2.jar:1.6.2]
+	... 9 more
+09:24:21.888 [main] INFO  cs486.App3 - Starting application
+09:24:43.054 [main] ERROR cs486.App3 - Error generating attendance sheets: 
+com.sun.mail.util.MailConnectException: Couldn't connect to host, port: gmail.com, 25; timeout -1
+	at com.sun.mail.smtp.SMTPTransport.openServer(SMTPTransport.java:2209) ~[javax.mail-1.6.2.jar:1.6.2]
+	at com.sun.mail.smtp.SMTPTransport.protocolConnect(SMTPTransport.java:740) ~[javax.mail-1.6.2.jar:1.6.2]
+	at javax.mail.Service.connect(Service.java:388) ~[javax.mail-1.6.2.jar:1.6.2]
+	at javax.mail.Service.connect(Service.java:246) ~[javax.mail-1.6.2.jar:1.6.2]
+	at javax.mail.Service.connect(Service.java:195) ~[javax.mail-1.6.2.jar:1.6.2]
+	at javax.mail.Transport.send0(Transport.java:254) ~[javax.mail-1.6.2.jar:1.6.2]
+	at javax.mail.Transport.send(Transport.java:124) ~[javax.mail-1.6.2.jar:1.6.2]
+	at cs486.Utility.sendEmails(Utility.java:96) ~[classes/:?]
+	at cs486.App3.sendEmails(App3.java:78) ~[classes/:?]
+	at cs486.App3.main(App3.java:46) [classes/:?]
+Caused by: java.net.ConnectException: Connection timed out: connect
+	at java.base/sun.nio.ch.Net.connect0(Native Method) ~[?:?]
+	at java.base/sun.nio.ch.Net.connect(Net.java:579) ~[?:?]
+	at java.base/sun.nio.ch.Net.connect(Net.java:568) ~[?:?]
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:588) ~[?:?]
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327) ~[?:?]
+	at java.base/java.net.Socket.connect(Socket.java:633) ~[?:?]
+	at java.base/java.net.Socket.connect(Socket.java:583) ~[?:?]
+	at com.sun.mail.util.SocketFetcher.createSocket(SocketFetcher.java:359) ~[javax.mail-1.6.2.jar:1.6.2]
+	at com.sun.mail.util.SocketFetcher.getSocket(SocketFetcher.java:238) ~[javax.mail-1.6.2.jar:1.6.2]
+	at com.sun.mail.smtp.SMTPTransport.openServer(SMTPTransport.java:2175) ~[javax.mail-1.6.2.jar:1.6.2]
+	... 9 more
+09:24:43.087 [main] INFO  cs486.App3 - Application finished
+16:01:12.363 [main] INFO  cs486.App3 - Starting application
+16:01:13.766 [main] ERROR cs486.App3 - Error generating attendance sheets: 
+javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials m5-20020ac84445000000b0042efe24b76esm1182529qtn.58 - gsmtp
+
+	at com.sun.mail.smtp.SMTPTransport$Authenticator.authenticate(SMTPTransport.java:965) ~[javax.mail-1.6.2.jar:1.6.2]
+	at com.sun.mail.smtp.SMTPTransport.authenticate(SMTPTransport.java:876) ~[javax.mail-1.6.2.jar:1.6.2]
+	at com.sun.mail.smtp.SMTPTransport.protocolConnect(SMTPTransport.java:780) ~[javax.mail-1.6.2.jar:1.6.2]
+	at javax.mail.Service.connect(Service.java:388) ~[javax.mail-1.6.2.jar:1.6.2]
+	at javax.mail.Service.connect(Service.java:246) ~[javax.mail-1.6.2.jar:1.6.2]
+	at javax.mail.Service.connect(Service.java:195) ~[javax.mail-1.6.2.jar:1.6.2]
+	at javax.mail.Transport.send0(Transport.java:254) ~[javax.mail-1.6.2.jar:1.6.2]
+	at javax.mail.Transport.send(Transport.java:124) ~[javax.mail-1.6.2.jar:1.6.2]
+	at cs486.Utility.sendEmails(Utility.java:136) ~[classes/:?]
+	at cs486.App3.sendEmails(App3.java:78) ~[classes/:?]
+	at cs486.App3.main(App3.java:46) [classes/:?]
+16:01:13.784 [main] INFO  cs486.App3 - Application finished
+16:01:53.758 [main] INFO  cs486.App3 - Starting application
+16:01:54.948 [main] ERROR cs486.App3 - Error generating attendance sheets: 
+javax.mail.AuthenticationFailedException: 534-5.7.9 Application-specific password required. For more information, go to
+534 5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor 20-20020a05620a04d400b007885e3275e9sm1239176qks.132 - gsmtp
+
+	at com.sun.mail.smtp.SMTPTransport$Authenticator.authenticate(SMTPTransport.java:965) ~[javax.mail-1.6.2.jar:1.6.2]
+	at com.sun.mail.smtp.SMTPTransport.authenticate(SMTPTransport.java:876) ~[javax.mail-1.6.2.jar:1.6.2]
+	at com.sun.mail.smtp.SMTPTransport.protocolConnect(SMTPTransport.java:780) ~[javax.mail-1.6.2.jar:1.6.2]
+	at javax.mail.Service.connect(Service.java:388) ~[javax.mail-1.6.2.jar:1.6.2]
+	at javax.mail.Service.connect(Service.java:246) ~[javax.mail-1.6.2.jar:1.6.2]
+	at javax.mail.Service.connect(Service.java:195) ~[javax.mail-1.6.2.jar:1.6.2]
+	at javax.mail.Transport.send0(Transport.java:254) ~[javax.mail-1.6.2.jar:1.6.2]
+	at javax.mail.Transport.send(Transport.java:124) ~[javax.mail-1.6.2.jar:1.6.2]
+	at cs486.Utility.sendEmails(Utility.java:136) ~[classes/:?]
+	at cs486.App3.sendEmails(App3.java:78) ~[classes/:?]
+	at cs486.App3.main(App3.java:46) [classes/:?]
+16:01:54.962 [main] INFO  cs486.App3 - Application finished
+08:49:16.626 [main] INFO  cs486.App3 - Starting application.
+08:49:16.661 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+08:49:16.663 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+08:49:16.701 [main] INFO  cs486.App3 - Application finished.
+09:08:12.563 [main] INFO  cs486.App3 - Starting application.
+09:08:12.598 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+09:08:12.598 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+09:08:12.653 [main] INFO  cs486.App3 - Application finished.
+09:20:51.624 [main] INFO  cs486.App3 - Starting application.
+09:20:51.653 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+09:20:51.654 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+09:20:51.667 [main] INFO  cs486.App3 - Application finished.
+08:11:13.939 [main] INFO  cs486.App3 - Starting application.
+08:11:13.975 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+08:11:13.975 [main] ERROR cs486.App3 - Text 'Date' could not be parsed at index 0
+08:11:13.991 [main] INFO  cs486.App3 - Application finished.
+10:52:48.435 [main] INFO  attendancereports.App3 - Starting application.
+10:52:48.465 [main] ERROR attendancereports.App3 - Text 'Date' could not be parsed at index 0
+10:52:48.466 [main] ERROR attendancereports.App3 - Text 'Date' could not be parsed at index 0
+10:52:48.479 [main] INFO  attendancereports.App3 - Application finished.
